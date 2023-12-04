@@ -4,13 +4,13 @@
 [[start:7618][end:9388]] Hello and welcome everyone.
 [[start:9554][end:20780]] It is July 7, 2023, and we are in the first introductory session of the course, Active Inference for the Social Sciences.
 [[start:21120][end:28790]] This is going to be a really exciting course and journey that we're all going to join and co create together.
-[[start:29320][end:34820]] With no further ado, I will pass it to please mute turn off the live stream Avel.
+[[start:29320][end:34820]] With no further ado,
 
-00:36 [[start:36600][end:37590]] Thank you.
-[[start:38120][end:43412]] Complex systems and feedbacks with cyberphysical systems will be a theme.
-[[start:43556][end:45210]] We told you it would be.
+00:36 [[start:36600][end:37590]] 
+[[start:38120][end:43412]] 
+[[start:43556][end:45210]] 
 [[start:45740][end:49364]] I will pass now to Avel for the introductory session.
-[[start:49412][end:57864]] If you're watching live, please feel free to write any comments or questions in the chat and I'll relay them at the end onto the lecture.
+[[start:49412][end:57864]] If you're watching live, please feel free to write any comments or questions in the chat and I'll relay them at the end of the lecture.
 
 00:57 [[start:57912][end:58940]] Thanks, Avel.
 
@@ -20,7 +20,7 @@
 [[start:85270][end:87026]] So, hi, do you hear me?
 [[start:87048][end:89074]] Well, there was a sound issue.
 [[start:89192][end:90260]] Okay, cool.
-[[start:91110][end:93862]] So I'm avoid I organized, I guess, the course.
+[[start:91110][end:93862]] So I'm Avel. I organized the course.
 [[start:93916][end:98630]] I had the idea and worked on the curriculum.
 
 01:39 [[start:99930][end:101202]] Do you see the slides?
