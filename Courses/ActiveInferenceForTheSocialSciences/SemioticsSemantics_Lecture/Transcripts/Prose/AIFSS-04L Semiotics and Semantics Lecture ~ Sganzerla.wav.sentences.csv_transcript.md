@@ -206,43 +206,43 @@
 
 25:16 [[start:1516080][end:1519724]] Well, we can talk about that in terms of shared attention.
 [[start:1519852][end:1524480]] That's one form of this kind of model to cash this out.
-[[start:1524550][end:1531504]] So we have active inference capturing relevant statistical relations between environment and aging.
-[[start:1531632][end:1552200]] And why I'm trying to think about here is how biosyniotics offer tools for these informational sensitivities and statistical relations to cache symbols in terms of use and interpretation within communities of language users.
+[[start:1524550][end:1531504]] So we have active inference capturing relevant statistical relations between environment and agent.
+[[start:1531632][end:1552200]] And wat I'm trying to think about here is how biosemiotics offers tools for these informational sensitivities and statistical relations to cash symbols in terms of use and interpretation within communities of language users.
 
-25:56 [[start:1556400][end:1560072]] And that can only happen in the sense via directed action.
-[[start:1560136][end:1588660]] So the problem now will turn into how is it possible to specify the factors that are sufficient to constrain action and direct that into specific interaction fault is through the history interaction fault is European forestry.
-[[start:1589000][end:1608052]] I'm picking this example from a very like from James, I really recommend kind of tells this story about how coordinated action, how states coordinate specific collective actions.
+25:56 [[start:1556400][end:1560072]] And that can only happen in a sense via directed action.
+[[start:1560136][end:1588660]] So the problem we'll now turn to is how it is possible to specify the factors that are sufficient to constrain action and direct that into specific interaction. We will consider attention selection through the history of interactions in the case of  European forestry.
+[[start:1589000][end:1608052]] I'm picking this example from the book Seeing Like a State from James C. Scott, which I really recommend. He tells this story about coordinated action, how states coordinate specific collective actions.
 [[start:1608196][end:1610060]] But that's not the point that I want to talk here.
 [[start:1610130][end:1619200]] So here, let's unfold that a little bit in terms of the design of scientific forestry and think about scientific forestry as a practice.
 
-26:59 [[start:1619940][end:1672200]] And a practice that has an organizing principle that will like that will be the main important articulating story that can connect together how agriculture layouts plantations in specific ways and how collective farms will make specific choices in terms of this organization and how villages can structure themselves around one specific notion or one specific organizational principle and how everything can be calculated to make one type of practice, which is agriculture is a very general, more legible and more manipulable for different kinds of communities.
+26:59 [[start:1619940][end:1672200]] And a practice that has an organizing principle that will like that will be the main important articulating story that can connect together how agriculture lays out plantations in specific ways and how collective farms will make specific choices in terms of this organization and how villages can structure themselves around one specific notion or one specific organizational principle and how everything can be calculated to make one type of practice, which is agriculture, very general, more legible and more manipulable for different kinds of communities.
 [[start:1672360][end:1682304]] So in that we will involve manipulating the very concrete aspects of the land, the terrain, the products, the workforce.
 
 28:02 [[start:1682432][end:1691510]] So it has a very encompassing effect over time and in a very concrete sense.
 [[start:1693340][end:1706004]] And interestingly when you talk about European forestry and how European forestry was modeling the terrain and how it's catching out value of these terrains.
-[[start:1706132][end:1722432]] They were not trying to do that to successfully depict the full range of diversity of the actual social activity and the actual activity of agriculture or the richness of the vegetation or they are not even trying.
+[[start:1706132][end:1722432]] They were not trying to do that, to successfully depict the full range of diversity of the actual social activity and the actual activity of agriculture or the richness of the vegetation.
 
 28:42 [[start:1722486][end:1724016]] They didn't intend to do that.
 [[start:1724038][end:1730370]] That was not the point of this kind of modeling turned into a practice, right?
 [[start:1730920][end:1741060]] Those models generally represent specific slices of nature that were interesting for one specific official observer.
 [[start:1741480][end:1758700]] And that point is really important because that will shape how all these communities and how the terrain and how the forest will unfold over time within this specific perspective.
 
-29:19 [[start:1759680][end:1769570]] So I bring here a quote that I really really like because it tries to flesh this out in simple terms and very useful ones.
+29:19 [[start:1759680][end:1769570]] So I bring here a quote that I really, really like because it tries to flesh this out in simple terms and very useful ones.
 
-29:30 [[start:1770580][end:1791780]] So, thinking that exaggerating only slightly, one might say that the interest in forest was resolved through one fiscal specific single number, which was the revenue that yield from the timber that was extracted annually.
-[[start:1792440][end:1797528]] Well, that's okay, that's understandable, that's intelligible and that happens to you every day.
-[[start:1797614][end:1813340]] In terms of how we understand our economy but what is interesting about this quote is that the best way to appreciate how heroic was this constriction of vision is to notice what falls outside the field of vision.
-[[start:1814240][end:1831456]] So what is missing from that is not the organizational principle of timber being valuable but everything that was not there or was being excluded treason bushes and planters and plants that hold little to non potential for that purpose.
+29:30 [[start:1770580][end:1791780]] So, thinking that exaggerating only slightly, one might say that the crown's interest in forests was resolved through one fiscal lens into one specific single number, which was the revenue yield from the timber that was extracted annually.
+[[start:1792440][end:1797528]] Well, that's okay, that's understandable, that's intelligible and that happens to you every day
+[[start:1797614][end:1813340]] in terms of how we understand our economy but what is interesting about this quote is that the best way to appreciate how heroic was this constriction of vision is to notice what falls outside the field of vision.
+[[start:1814240][end:1831456]] So what is missing from that is not the organizational principle of timber being valuable but everything that was not there or was being excluded trees and bushes and plants that hold little to no potential for that purpose.
 
-30:31 [[start:1831568][end:1837920]] So missing out of that is floridiversity foliage, fruits, et cetera, twigs and branches.
+30:31 [[start:1831568][end:1837920]] So missing out of that is flora diversity, foliage, fruits, et cetera, twigs and branches.
 
 30:38 [[start:1838000][end:1840704]] Missing out of that are insects and small animals.
 [[start:1840752][end:1855128]] Depending on this diversity, all this ecological organization falls out of the organizational principle and that has very concrete consequences that we still suffer.
-[[start:1855184][end:1865772]] Her we still live in the height of this climate crisis that also starts from this kind of thinking.
-[[start:1865906][end:1887430]] So it has really very material consequences for us and had for them at the time, if you read more about it, that a timber, by trimming and domesticating nature, so much decreased in quality and then eventually decreased in value, which prompted them to try to reorganize that kind of story.
+[[start:1855184][end:1865772]] Here we still live in the height of this climate crisis that also starts from this kind of thinking.
+[[start:1865906][end:1887430]] So it has really very material consequences for us and had for them at the time, if you read more about it, that timber, by trimming and domesticating nature so much, decreased in quality and then eventually decreased in value, which prompted them to try to reorganize that kind of story.
 [[start:1888840][end:1889396]] And what?
 
-31:29 [[start:1889418][end:1894216]] I want to call attention with the example is that also it brings some specific ways of talking about it.
+31:29 [[start:1889418][end:1894216]] I want to call attention to with the example is that also it brings some specific ways of talking about it.
 
 31:34 [[start:1894238][end:1900612]] It brings vocabulary that only exists in terms of this type of practice specifically.
 [[start:1900756][end:1908524]] So this vocabulary constrains nature in a way by pruning what cannot be used.
@@ -252,30 +252,30 @@
 32:03 [[start:1923078][end:1925504]] But the symbols, they don't exist in themselves.
 [[start:1925622][end:1930964]] They exist only in organizing the social practice around them.
 [[start:1931082][end:1937476]] So when you replace nature with a term called natural resources, we are doing exactly that.
-[[start:1937658][end:1950072]] It's specifying from a generalized notion of nature like flora and fauna becomes something valuable, becomes a commodity but not everything, right?
+[[start:1937658][end:1950072]] It's specifying from a generalized natural world how some flora and fauna become something valuable, become a commodity. But not everything, right?
 [[start:1950126][end:1953332]] It trims the practice.
 
-32:33 [[start:1953476][end:1956248]] It separates competing species from value goods.
+32:33 [[start:1953476][end:1956248]] It separates competing species from valued ones.
 
 32:36 [[start:1956264][end:1963896]] So plants are symbolized as crops and the competing species are symbolized as weeds.
-[[start:1963928][end:1975730]] They are not necessarily crops or weeds or anything like that in nature, but they are that for the way we talk like that because we practice agriculture in a certain way.
+[[start:1963928][end:1975730]] They are not necessarily crops or weeds or anything like that in nature, but they are that for the way we talk, because we practice agriculture in a certain way.
 [[start:1977380][end:1982080]] That's the same for insects or small animals that consume these interesting crops.
-[[start:1982240][end:2007032]] So the material effect of that and how that only gains traction in the practice over time and how you have specific intention that has unintended consequences are necessarily here situated contextualized and embodied in terms of trimming specific types of attention.
+[[start:1982240][end:2007032]] So the material effect of that and how that only gains traction in the practice over time and how you have specific intention that has unintended consequences are necessarily here situated, contextualized and embodied in terms of trimming specific types of attention.
 
-33:27 [[start:2007176][end:2040070]] And this attention will only shift to try to repopulate infect population, for instance, when you realize that this practice brought this specific effect in a certain way that affects the value of our understanding of nature and that generates exactly a type of social coherence and social coordination and how constraints create this coherence, right?
+33:27 [[start:2007176][end:2040070]] And this attention will only shift to try to repopulate insect populations, for instance, when you realize that this practice brought this specific effect in a certain way that affects the value of our understanding of nature and how that generates exactly a type of social coherence and social coordination and how constraints create this coherence, right?
 
 34:03 [[start:2043020][end:2050020]] Well now let's talk back again about formal semantics.
-[[start:2050100][end:2066300]] While this formal semantics and active inference sort of embeds one type of mathematical formalism symbols can only be grounded in specific concrete practices or inaction.
-[[start:2066640][end:2080624]] So while active inference can be used as a tool to explain social understanding, it does do that in terms of generalized synchronization in a model of cognition that can be inactive and dynamic.
+[[start:2050100][end:2066300]] While this formal semantics and active inference sort of embed one type of mathematical formalism symbols can only be grounded in specific concrete practices or inaction.
+[[start:2066640][end:2080624]] So while active inference can be used as a tool to explain social understanding, it does do that in terms of generalized synchronization in a model of cognition that can be enactive and dynamic.
 [[start:2080672][end:2084944]] But this is still very general in terms of biosematics.
-[[start:2084992][end:2102628]] We can think of it as a framework that might be compatible with active inference in terms of explaining the materiality of the environment in a non reductive, in a non reductionist way that tries to retain some naturalistic credentials.
+[[start:2084992][end:2102628]] We can think of it as a framework that might be compatible with active inference in terms of explaining the materiality of the environment in a non-reductive, in a non-reductionist way that tries to retain some naturalistic credentials.
 
-35:02 [[start:2102804][end:2114700]] So how the conventions are affecting and affecting the embodied agent in terms of forming those symbols and cashing out those epistemic values.
+35:02 [[start:2102804][end:2114700]] So how are the conventions affecting and effecting the embodied agent in terms of forming those symbols and cashing out those epistemic values.
 
-35:17 [[start:2117460][end:2139990]] And well social interaction in this sense is not reduced to prediction because in this sense, the prediction will not be a primitive, but it will be a result of a specific participatory construction of the social scene over specific.
-[[start:2141320][end:2158012]] Organizational principles and actions that, through the synchronization of these generative models, or the synchronization of those agents that can be described in terms of those generative models, gain predictive value.
-[[start:2158146][end:2165020]] And when you model that then you have this type of understand the value of prediction in those senses.
-[[start:2166400][end:2199790]] So that allows that allows us to say that social actors in this sense can behave as if they have a generative model that synchronizes with that symbolic state of affairs allowing them to understand each other's behaviors or to develop approximate informational sensitive or responsiveness to the same symbols and goals.
+35:17 [[start:2117460][end:2139990]] And social interaction in this sense is not reduced to prediction because in this sense, the prediction will not be a primitive, but it will be a result of a specific participatory construction of the social scene over specific
+[[start:2141320][end:2158012]] organizational principles and actions that, through the synchronization of these generative models, or the synchronization of those agents that can be described in terms of those generative models, gain predictive value.
+[[start:2158146][end:2165020]] And when you model that then you have this type of understanding of the value of prediction in those senses.
+[[start:2166400][end:2199790]] So that allows us to say that social actors in this sense can behave as if they have a generative model that synchronizes with that symbolic state of affairs allowing them to understand each other's behaviors or to develop approximate informational sensitivity or responsiveness to the same symbols and goals.
 
 36:40 [[start:2200210][end:2208530]] They are approximate because they're obviously not going to be the same but they have the same approximate orientation.
 
@@ -284,24 +284,24 @@
 [[start:2221122][end:2229670]] But you also have types of minds shaped in terms of these very concrete organizations.
 
 37:14 [[start:2234920][end:2240804]] That happens in a community, like for humans at least, it happens in community of language users.
-[[start:2240932][end:2249692]] So their relationship with symbolic cues helps to select attention at that specific time as well.
-[[start:2249746][end:2254776]] Pruning what should be ignored in socially constructed environments.
+[[start:2240932][end:2249692]] So their relationship with symbolic cues helps to select attention at that specific time as well as
+[[start:2249746][end:2254776]] pruning what should be ignored in socially constructed environments.
 [[start:2254968][end:2273510]] So within a specific community of language users some types of actions will be desirable and will be deemed as true in that specific type of community and can be only evaluated under those terms.
 
 37:53 [[start:2273960][end:2293320]] So you can provide reasons for actions in that specific context and you can talk about how rational that action is in terms of the conditions set by those communities.
 
-38:18 [[start:2298230][end:2309400]] And that brings us to the idea that human cognition in this sense is never decoupled from these cultural norms that pushes and orients them over time.
-[[start:2309930][end:2312922]] So in those scale of behavior and that's the interesting thing.
-[[start:2312976][end:2334480]] And that's why active inference can be an interesting tool to model this type of human communities and this type of behavior because it can come from the very dynamics, the very basic of dynamics to specific types of perception and scale up and more.
+38:18 [[start:2298230][end:2309400]] And that brings us to the idea that human cognition in this sense is never decoupled from these cultural norms that push and orient them over time.
+[[start:2309930][end:2312922]] So in those scales of behavior that's the interesting thing.
+[[start:2312976][end:2334480]] And that's why active inference can be an interesting tool to model these types of human community and this type of behavior, because it can come from the very dynamics of basic perception and scale-up and more.
 
-38:57 [[start:2337860][end:2366510]] So when you have the problem of symbols, like in these two decoupled possible community of users and symbols and embodied agents and things that do not combine, we can try to model our agents in a way that we don't have this problem anymore because you're trying to include that very component into the model.
+38:57 [[start:2337860][end:2366510]] So when you have the problem of symbols, like in these two decoupled possible communities of users and symbols and embodied agents and things that do not combine, we can try to model our agents in a way where we don't have this problem anymore because you're trying to include that very component into the model.
 
 39:28 [[start:2368880][end:2380530]] So in this sense, we have active inference used as tools to explain social understanding, as generalized synchronization and in understanding others.
-[[start:2381140][end:2397536]] In that sense, because of this generalized synchronization model and assumed by those types of organizational principles, we can also engage in terms of niche construction.
+[[start:2381140][end:2397536]] In that sense, because of this generalized synchronization model assumed by those types of organizational principles, we can also engage in terms of niche construction.
 [[start:2397648][end:2413980]] So we have a more or less deterministic way of understanding the nature of symbols because the more we interact and approximate synchronize with the environment, we change the environment that might change us back.
 
-40:14 [[start:2414050][end:2424830]] So you have an open system that is always and everywhere situated and key can be modeled then with this type of predictive value.
-[[start:2425520][end:2449510]] So that's more or less what I had in mind and that's how I was trying to think about biosemiotics and in a possible relationship with free energy principle and the formalisms of yeah, I think this is it.
+40:14 [[start:2414050][end:2424830]] So you have an open system that is always and everywhere situated and can be modeled then with this type of predictive value.
+[[start:2425520][end:2449510]] So that's more or less what I had in mind and that's how I was trying to think about biosemiotics and in a possible relationship with free energy principle and the formalisms of active inference. Yeah, I think this is it.
 
 40:58 _Daniel:_
 [[start:2458310][end:2458818]] Awesome.
@@ -321,12 +321,12 @@
 [[start:2524300][end:2524920]] Right?
 [[start:2526490][end:2527794]] I think that was the motivation.
 [[start:2527842][end:2532438]] I think there's the interesting part of biosymptics in that sense.
-[[start:2532524][end:2534810]] It tries to make less assumptions.
+[[start:2532524][end:2534810]] It tries to make fewer assumptions.
 
-42:15 [[start:2535310][end:2541594]] When we start from a hardcore assumption or model assumption, right.
-[[start:2541632][end:2550080]] That semantics is only within the mind, then we have a very hard time trying to explain that.
+42:15 [[start:2535310][end:2541594]] When we start from a hardcore assumption or model assumption, right,
+[[start:2541632][end:2550080]] that semantics is only within the mind, then we have a very hard time trying to explain that.
 [[start:2550530][end:2560082]] If you assume less about that, you might bring different types of explanations, of course, but they'd be more interesting.
-[[start:2560216][end:2574280]] I was trying to see how that looks like when you bring these two things together in the terms of active inference and free energy principle, if that works, if that is possible.
+[[start:2560216][end:2574280]] I was trying to see how that looks when you bring these two things together in the terms of active inference and thefree energy principle, if that works, if that is possible.
 
 42:54 [[start:2574970][end:2577160]] I don't know if that answers your question.
 
@@ -339,19 +339,19 @@
 
 43:24 _Daniel:_
 [[start:2604780][end:2605110]] Yeah.
-[[start:2605180][end:2612550]] How does active inference help us or have continuity or difference with previous ways that people have connected?
-[[start:2612710][end:2624122]] The technical part from what you described as the formal semantics embeds the mathematical formalism, and then the symbols are grounded in specific action.
+[[start:2605180][end:2612550]] How does active inference help us or have continuity or difference with previous ways that people have connected
+[[start:2612710][end:2624122]] the technical part from what you described as the formal semantics embeds the mathematical formalism, and then the symbols are grounded in specific action?
 
 43:44 [[start:2624266][end:2628830]] So has that been played out in other technical frameworks?
 
 43:49 _Lorena:_
-[[start:2629250][end:2633582]] Well, we do have technical frameworks that try to organize that in terms of an activism right.
-[[start:2633636][end:2635674]] And autopoietic and activism.
-[[start:2635802][end:2644238]] But then we just have in these terms, the notion of symbols sometimes get loosely described.
+[[start:2629250][end:2633582]] Well, we do have technical frameworks that try to organize that in terms of enctivism right.
+[[start:2633636][end:2635674]] And autopoietic enactivism.
+[[start:2635802][end:2644238]] But then we just have in these terms that the notion of symbols sometimes gets loosely described.
 [[start:2644254][end:2646530]] And I think these guys are not really interested in that.
 
-44:06 [[start:2646600][end:2669110]] I think they're trying to describe something else, for example, or you can have some specific types of computational if you really buy into the mind computational brain and computational mind metaphor, then you have a hard time also to explain how semantics are built into that computation.
-[[start:2669190][end:2669820]] Right.
+44:06 [[start:2646600][end:2669110]] I think they're trying to describe something else, for example. Or you can have some specific types of computational if you really buy into the mind computational brain and computational mind metaphor, then you have a hard time also to explain how semantics are built into that computation.
+[[start:2669190][end:2669820]] Right?
 [[start:2670190][end:2673482]] I don't think anyone has a very strong answer to that.
 [[start:2673536][end:2676970]] You have to really buy into the idea of information processing.
 [[start:2677130][end:2680846]] And that's what brought me a little bit to that.
@@ -360,26 +360,26 @@
 [[start:2687838][end:2695860]] If you try to lose a little bit this notion, if you try to understand process and information in different terms, what happens?
 
 44:56 [[start:2696390][end:2699638]] I think that was more or less the question that I was trying to ask.
-[[start:2699804][end:2724750]] And if active inference and biosemiotics can, because they have less assumptions in terms of what happens inside the processing information content in the mind, if that can bring interesting answers or if you can use as a model to organize behavior.
+[[start:2699804][end:2724750]] And if active inference and biosemiotics can, because they have fewer assumptions in terms of what happens inside the processing information content in the mind, if that can bring interesting answers or if you can use it as a model to organize behavior.
 
-45:27 [[start:2727810][end:2743540]] And there's another point that also brought me to this type of thinking, was trying to understand how active inference can include the historicity of the agent.
-[[start:2743990][end:2744402]] Right.
+45:27 [[start:2727810][end:2743540]] And there's another point that also brought me to this type of thinking, which was trying to understand how active inference can include the historicity of the agent.
+[[start:2743990][end:2744402]] Right?
 [[start:2744456][end:2752950]] Because I think that something comes across debated in active inference, how you bring novelty into the state space.
 [[start:2753020][end:2760966]] Like, once you define that state space, the state space is more or less deterministic because everything will happen within that specific range.
 
-46:00 [[start:2760998][end:2767850]] So how does novelty comes within this type of modeling?
+46:00 [[start:2760998][end:2767850]] So how does novelty come within this type of modeling?
 
-46:08 [[start:2768430][end:2771930]] So how can you explain that if it does?
+46:08 [[start:2768430][end:2771930]] So how can you explain that? If it does,
 [[start:2772000][end:2772860]] I don't know.
 [[start:2774450][end:2779998]] It's more like an exploratory question that I was trying to make and see how that pans out.
 [[start:2780164][end:2782478]] I actually also don't have an answer for that.
-[[start:2782644][end:2797170]] But if you take seriously some more inactive claims that you need history of interactions to understand how agents behave, you cannot understand agents without that.
+[[start:2782644][end:2797170]] But if you take seriously some more enactive claims that you need history of interactions to understand how agents behave, you cannot understand agents without that.
 
 46:37 [[start:2797320][end:2802790]] So how does active inference answer this question specifically?
 [[start:2804250][end:2809618]] Right, because once yeah, I think that's still kind of debated.
-[[start:2809794][end:2821686]] I'm not sure if there's new developments in this specific topic, but I remember I think two years ago was like this specific papers from Di Paulo.
+[[start:2809794][end:2821686]] I'm not sure if there's new developments in this specific topic, but I remember I think two years ago was like these specific papers from Di Paulo.
 
-47:01 [[start:2821718][end:2828554]] I think the Lane dawa Forking path is specifically focusing on that in the formalisms and et cetera.
+47:01 [[start:2821718][end:2828554]] I think Laying Down a Forking path is specifically focusing on that in the formalisms, et cetera.
 [[start:2828682][end:2836420]] So I don't know if these two things can bring a little bit of more to the conversation, maybe not.
 
 47:18 _Daniel:_
@@ -387,9 +387,9 @@
 [[start:2839416][end:2842066]] I'll just ask some more general questions.
 [[start:2842168][end:2844494]] You're adding a lot with these thoughts.
 [[start:2844622][end:2850230]] So you said that social interaction in this account is not reduced to prediction.
-[[start:2850890][end:2856440]] So how would you unpack that and how would you relate this?
+[[start:2850890][end:2856440]] So how would you unpack that and how would you relate this,
 
-47:38 [[start:2858810][end:2868890]] I don't know exactly what term of art would go here, but this kind of social epistemology that active inference provides us in contrast to say, predictive processing.
+47:38 [[start:2858810][end:2868890]] I don't know exactly what term of art would go here, but this kind of social epistemology that active inference provides us in contrast to say, predictive processing?
 [[start:2869550][end:2873730]] So how is it that we would or wouldn't reduce something to prediction?
 [[start:2873830][end:2878430]] And then what is it that active inference brings into that discussion?
 
@@ -397,11 +397,11 @@
 [[start:2879490][end:2882046]] Yeah, well, I think I have two points in that.
 [[start:2882068][end:2890500]] Like, active inference in that sense has a type of modeling that tries to include all the time and everywhere the embodied agent.
 
-48:10 [[start:2890870][end:2914698]] If you take seriously the idea, the generative model is always accurately modeling that specific agent because it cannot be true or false, your current state is like that even if you are not feeling really well, you just know that you're not feeling well in relation to something else.
+48:10 [[start:2890870][end:2914698]] If you take seriously the idea that the generative model is always accurately modeling that specific agent because it cannot be true or false, your current state is like that even if you are not feeling really well, you just know that you're not feeling well in relation to something else.
 [[start:2914784][end:2922220]] And that story is still very accurate to your state condition right now.
-[[start:2922770][end:2923614]] Right.
-[[start:2923812][end:2935694]] So the prediction gains traction socially at least in that sense, not in this specific detail of predictive processing, I think, because I think that's more complicated.
-[[start:2935742][end:2962330]] But socially, in social cognition, at least we can talk about this predictive value, I think is a more interesting way to do that because the example that I use in terms of catching out symbols, we are using something that was meant to make something intelligible that have very bad consequences that were not even close to be predicted.
+[[start:2922770][end:2923614]] Right?
+[[start:2923812][end:2935694]] So the prediction gains traction socially at least in that sense, not in the specific detail of predictive processing, I think, because I think that's more complicated.
+[[start:2935742][end:2962330]] But socially, in social cognition, at least we can talk about this predictive value; I think is a more interesting way to do that because, in the example that I use in terms of cashing out symbols, we are using something that was meant to make something intelligible that have very bad consequences that were not even close to be predicted.
 
 49:22 [[start:2962750][end:2970220]] So in that sense and how these consequences happen, prediction cannot be there everywhere and all the time.
 [[start:2970990][end:2974240]] The prediction has an orientation as well, right?
