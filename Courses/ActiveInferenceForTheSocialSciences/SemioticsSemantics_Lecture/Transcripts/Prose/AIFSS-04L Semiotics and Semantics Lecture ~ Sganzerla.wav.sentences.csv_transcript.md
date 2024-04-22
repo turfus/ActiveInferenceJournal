@@ -38,32 +38,32 @@
 [[start:138850][end:146190]] So let me know what you think in the comments and after we can have a little discussion, or in the next session.
 [[start:148050][end:159922]] So the background introduction that I want to first point to is we are talking about biological agents and how they act.
 
-02:40 [[start:160056][end:177450]] So we are always thinking in terms of biological agents acting to express in ways that express informational sensitivities to context dependent relevance to their environment and things that involve communities.
-[[start:177790][end:195242]] However, how this very minimal way of talking about what motivates and what is relevant to people becomes stable enough as a self sustaining pattern of interactions, like, are they stable and how they become that stable?
+02:40 [[start:160056][end:177450]] So we are always thinking in terms of biological agents acting to express in ways that express informational sensitivities to context-dependent relevance to their environment and things that involve communities.
+[[start:177790][end:195242]] However, how does this very minimal way of talking about what motivates and what is relevant to people become stable enough as a self-sustaining pattern of interactions, like, are they stable and how do they become that stable?
 [[start:195306][end:210350]] So how can those information sensitivities ground values, norms, and goals consistently and over time, assuming that those values and goals are necessary for meaningful interactions?
 [[start:210510][end:214066]] So we have to align motivations to behavior, right?
 [[start:214088][end:215390]] That's not really obvious.
 
-03:35 [[start:215560][end:220294]] And ultimately how meaning is brought about.
+03:35 [[start:215560][end:220294]] And ultimately how is meaning brought about?
 
 03:40 [[start:220492][end:228700]] I don't think I'm going to answer that, but I want to point to some directions and how people have been thinking about these questions over time.
 
 03:51 [[start:231150][end:234554]] So the problem of meaning has a brief account, right?
-[[start:234592][end:250400]] Like, traditionally approaches of to cognition, localize meaning inside individual organisms and more specifically, inside their minds so meaning pertains to content in this kind of thing.
-[[start:252150][end:260654]] However, like many have a developmental history so it's hard to catch those two things together if it's inside people's minds.
-[[start:260782][end:276870]] How we can have an evolutionary and developmental history assuming that meanings are things that we can learn over time and they happen in shared context, they don't happen out of nowhere in a vision, from nowhere.
-[[start:278590][end:298158]] In a sense we can say that it's not really trivial that conventionalized words like for example, the conventionalized meaning of a word, for instance, catch means catch, have evolutionary histories one thing does not come from the other.
+[[start:234592][end:250400]] Like, traditionally approaches of to cognition localize meaning inside individual organisms and more specifically, inside their minds so meaning pertains to content in this kind of thing.
+[[start:252150][end:260654]] However, many have a developmental history so it's hard to catch those two things together if it's inside people's minds.
+[[start:260782][end:276870]] How can we have an evolutionary and developmental history assuming that meanings are things that we can learn over time and they happen in a shared context? They don't happen out of nowhere in a vision, from nowhere.
+[[start:278590][end:298158]] In a sense we can say that it's not really trivial that conventionalized words like, for example, the conventionalized meaning of a word - for instance, catch means catch - have evolutionary histories. One thing does not come from the other.
 
 04:58 [[start:298324][end:305106]] We need a broader understanding to cash this meaning out and that's where I'm stepping from.
 [[start:305208][end:306878]] That's my grounding.
-[[start:306974][end:316454]] We need to cast these things out in terms of community of language users which brings a problem, right?
+[[start:306974][end:316454]] We need to cash these things out in terms of a community of language users which brings a problem, right?
 [[start:316492][end:322546]] We have goals and values that can be defined in terms of those communities and you have material embodied factors.
-[[start:322658][end:334060]] So how these two things are together or how goals and values affect and motivate material and embodied agents?
+[[start:322658][end:334060]] So how do these two things work together, or how do goals and values affect and motivate material and embodied agents?
 
 05:36 [[start:336270][end:341760]] To answer this kind of question, like over time, there are a few preferred ways.
 [[start:342370][end:351210]] I will do a brief overview of some theories of meaning usually in terms of cognitive sciences and any philosophy of mind.
-[[start:351380][end:355122]] That's what I'm interested in how they cast it out.
-[[start:355176][end:376230]] They usually try to think of those things in terms of syntax like concerns with form as an abstract organizing kind of rule is a type of grammar and how the order of things and how the logical unfolding of those symbols, how they become meaningful.
+[[start:351380][end:355122]] That's what I'm interested in: how they cash it out.
+[[start:355176][end:376230]] They usually try to think of those things in terms of syntax, like concerns with form as an abstract organizing kind of rule is a type of grammar; how the order of things and the logical unfolding of those symbols become meaningful.
 
 06:17 [[start:377550][end:382134]] But the syntax itself is not really enough to cash out meaning in semantics.
 
@@ -75,49 +75,49 @@
 07:03 [[start:423290][end:439870]] It concerns with the use of symbols like how they bring about meaning in terms of pragmatics and that will be a little bit different and we'll catch it out in different terms in relation to its peers like semantics and syntax.
 
 07:20 [[start:440370][end:443534]] Well, syntax is pretty clear in terms of being rules, right?
-[[start:443572][end:446238]] So what is semantics talk about?
-[[start:446324][end:459070]] So talk about mental content, about intentionality, about mental representations in the sense we have semantics that have specific key concepts that reference truth conditions and denotation.
+[[start:443572][end:446238]] So what is semantics about?
+[[start:446324][end:459070]] We talk about mental content, about intentionality, about mental representations. In that sense we have semantics that have specific key concepts that reference truth conditions and denotation.
 [[start:459230][end:465734]] So if you have mental content and if you put these meanings inside the organism, it has to refer to something else.
 
-07:45 [[start:465772][end:469206]] And how this cognitive penetration happens.
+07:45 [[start:465772][end:469206]] How does this cognitive penetration happen?
 [[start:469308][end:475078]] Like, how can meaning come about inside the mind?
-[[start:475164][end:486682]] And how that refers to something outside in the world and how this observational viewpoint of you thinking about something in front of you can be actually true.
-[[start:486736][end:513358]] So we need truth conditions that denote this specific relationship and that is represented in terms of mental content contemporarily there's like various ways of catching this out that can be functional, that can be more internalized mental specific types of representations grounded in vehicles.
+[[start:475164][end:486682]] And how can that refer to something outside in the world and how can this observational viewpoint of you thinking about something in front of you actually be true?
+[[start:486736][end:513358]] So we need truth conditions that denote this specific relationship and that is represented in terms of mental content. Contemporarily there are various ways of cashing this out that can be functional, that can be more internalized mental specific types of representations grounded in vehicles.
 
 08:33 [[start:513374][end:516422]] It's a very rich discussion and I don't want to go into all that.
 
-08:36 [[start:516476][end:533894]] I just want to point it out that science and neuroscience use those terms to study and to build models that relate to mental representations in terms of neuro representations because it kind of makes sense for us like brain activity.
+08:36 [[start:516476][end:533894]] I just want to point it out that science and neuroscience use those terms to study and to build models that relate to mental representations in terms of neuro-representations because it kind of makes sense for us, like brain activity.
 [[start:533942][end:546222]] You can see them in terms of what happens by studying human beings and by studying animals and how these mental representations relate to something that happens in the world.
 [[start:546276][end:559726]] You can see that one behavior elicits specific activities and they have a correlational relationship and that is highly debated.
 [[start:559838][end:560786]] But there we go.
-[[start:560808][end:577690]] We have many types of cashing out neural representations and concerning to this relationship of stimuli and the interpretation of this stimuli and how they motivate action.
+[[start:560808][end:577690]] We have many types of cashing out of neural representations concerned with this relationship of stimuli and the interpretation of these stimuli and how they motivate action.
 
 09:39 [[start:579550][end:590650]] That's already a very much weaker claim in relation to mental content and things being inside organisms but it is still in the same line of reasoning.
-[[start:591870][end:608814]] And there is also biosemiotics which I want to focus a little bit more because it concerns the use and the interpretation of signs and symbols which also emphasizes the embodied nature and the situated nature of meaning.
+[[start:591870][end:608814]] And there is also biosemiotics which I want to focus on a little bit more because it concerns the use and the interpretation of signs and symbols which also emphasizes the embodied nature and the situated nature of meaning.
 [[start:608942][end:615640]] So you don't have meaning without those practices and without the use of embodied agents.
-[[start:616490][end:626594]] So we have to reject the idea that meaning are abstract symbols or they going to be something that has to be in your mind and refer to something outside.
-[[start:626732][end:642638]] They're going to only exist in this type of relationship and they can take many forms including chemical signals like visual clues, behavior, words like the word cat you can have how you organize the word cat.
+[[start:616490][end:626594]] So we have to reject the idea that meanings are abstract symbols or they are going to be something that has to be in your mind and refers to something outside.
+[[start:626732][end:642638]] They're going to only exist in this type of relationship and they can take many forms including chemical signals like visual clues, behavior, words like the word cat and how you organize the word cat.
 
 10:42 [[start:642724][end:646750]] They are all symbolic and that fits also in that kind of structure.
 [[start:647090][end:663842]] So they are very important for communication, obviously because we do communicate in terms of pointing to the same shared notions of symbols in words and also other types of symbolic meaning and we coordinate life around them.
-[[start:663896][end:674690]] So living systems are then here characterized by the biosemite semiotics, by their ability of creating and interpreting and using these symbols in terms of their practices.
-[[start:674850][end:690314]] The fathers of biosemiotics started probably in the 19th century and Ox Cole is one of the most famous representatives.
+[[start:663896][end:674690]] So living systems are then here characterized by the biosemiotics, by their ability to create and interpret and use these symbols in terms of their practices.
+[[start:674850][end:690314]] The fathers of biosemiotics started probably in the 19th century and Ox Cole [??] is one of the most famous representatives.
 [[start:690442][end:698830]] Currently you can find new authors like Hoffman, Maya or Baker.
 
 11:40 [[start:700530][end:719922]] So I tried to organize a little bit in a specific model, in a type of model, in a visual story, how these two types of understanding meaning are being applied in terms of theories of meaning historically.
 
-12:00 [[start:720066][end:727366]] So in biosemiotics we have the pragmatics and you have the practice and they relate to dynamics and context dependent.
-[[start:727478][end:745430]] So you can see here on the top of the screen how agent we have the agent relationship with its psychological and social aspects and biosemiotics is somewhat concerned how correlation leads to prediction and beliefs and that leads to expectations.
-[[start:745590][end:763140]] And we also have other types of theories like telesymantics and and theories of computational syntax that tries to understand the dynamics and the mechanism of this relationship.
+12:00 [[start:720066][end:727366]] So in biosemiotics we have the pragmatics and you have the practice and they relate to dynamics and are context-dependent.
+[[start:727478][end:745430]] So you can see here on the top of the screen how as agents we have an agent's relationship with its psychological and social aspects and biosemiotics is somewhat concerned with how correlation leads to prediction and beliefs and that leads to expectations.
+[[start:745590][end:763140]] And we also have other types of theories like telesemantics and and theories of computational syntax that try to understand the dynamics and the mechanism of this relationship.
 
-12:45 [[start:765210][end:769560]] And they are not really crossing each other.
+12:45 [[start:765210][end:769560]] And they are not really overlapping each other.
 
 12:52 [[start:772410][end:775158]] They're not talking about the same necessary things.
 [[start:775244][end:777900]] So how can these things be brought together?
-[[start:779470][end:791450]] That's when I was thinking how we can bring this free energy principle and active inference in terms of those relationships.
+[[start:779470][end:791450]] That's when I was thinking about how we can bring in this free energy principle and active inference in terms of those relationships.
 
-13:13 [[start:793310][end:802430]] The free energy principle and active inference, as we know and I have been talking about probably in the past two classes.
-[[start:803010][end:807550]] It's a model that is interesting for that because it has like very minimal assumptions.
+13:13 [[start:793310][end:802430]] The free energy principle and active inference, as we know and I have been talking about probably in the past two classes
+[[start:803010][end:807550]] is a model that is interesting for that because it has very minimal assumptions.
 
 13:27 [[start:807710][end:815782]] So it starts off from the idea that organisms act to maintain themselves in their expected biological and cognitive states.
 [[start:815916][end:826120]] So you're always talking, you're modeling and using these mathematicals to ground biological agents in a very embodied sense.
