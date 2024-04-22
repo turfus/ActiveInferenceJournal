@@ -20,22 +20,22 @@
 [[start:54150][end:64614]] So I'm very interested in foundational understanding of cognitive sciences and information and how these kind of things cash out.
 [[start:64812][end:75686]] And this is why I was interested in talking about semantics and social cognition to see how these things cash out.
 
-01:15 [[start:75708][end:91662]] I have a few ideas on how semiotics can be compatible with, like, active inference, and I try to organize a little bit of this semiotic notion and active inference to see if they pan out.
+01:15 [[start:75708][end:91662]] I have a few ideas on how semiotics can be compatible with, like, active inference, and I will try to organize a little bit of this semiotic notion and active inference to see if they pan out.
 [[start:91796][end:92730]] Maybe they don't.
 [[start:92810][end:94560]] So let's see how it goes.
 
 01:36 [[start:96610][end:101230]] So let's talk about active inference, formal semantics, and social cognition.
 
-01:44 [[start:104930][end:105920]] What's up?
-[[start:107090][end:109826]] Okay, I cannot move my Lloyds now.
-[[start:109848][end:110580]] I can.
+01:44 [[start:104930][end:105920]] 
+[[start:107090][end:109826]] 
+[[start:109848][end:110580]] 
 [[start:111350][end:118370]] So I will first have a very short introduction for you guys I have out here.
 [[start:118440][end:119278]] So what are you going to do?
 
 01:59 [[start:119304][end:120658]] Like, we have a short introduction.
-[[start:120754][end:133498]] I'm going to talk a little bit of theories of meaning, and then we're going to talk a little bit the free energy principle and active inference and how shared symbols and social cognition can be thought together.
-[[start:133664][end:138410]] I bring one case that I find interesting and then we draw some conclusions.
-[[start:138850][end:146190]] So let me know what you think in the comments and after we can have a little discussion or in the next session.
+[[start:120754][end:133498]] I'm going to talk a little bit about theories of meaning, and then we're going to talk a little bit about the free energy principle and active inference and how shared symbols and social cognition can be thought of together.
+[[start:133664][end:138410]] I will bring one case that I find interesting and then we will draw some conclusions.
+[[start:138850][end:146190]] So let me know what you think in the comments and after we can have a little discussion, or in the next session.
 [[start:148050][end:159922]] So the background introduction that I want to first point to is we are talking about biological agents and how they act.
 
 02:40 [[start:160056][end:177450]] So we are always thinking in terms of biological agents acting to express in ways that express informational sensitivities to context dependent relevance to their environment and things that involve communities.
