@@ -126,83 +126,82 @@
 [[start:830848][end:838902]] So they have these metabolical states that have to be minimized in terms of expenditure, in terms of uncertainty.
 
 13:58 [[start:838966][end:847102]] Given that the long term average of free energy is entropy, they want to minimize their uncertainty in terms of their metabolical states.
-[[start:847156][end:854622]] What that entails that they have a specific range of states they want to stay in, like minimally to stay alive.
+[[start:847156][end:854622]] What that entails is that they have a specific range of states they want to stay in, like minimally to stay alive.
 
-14:14 [[start:854686][end:863582]] To stay alive, you have to do a bunch of things as a human being, but every single embodied agent would you prefer to stay alive?
-[[start:863646][end:887098]] So there are some preferred basic states that we've defined how action will be take first to maintain metabolical states and how that coordinate with the environment, which entails that organisms and agents can be described in those terms.
-[[start:887184][end:907890]] Like an active inference tries to bring out those minimal assumptions in mathematical terms that try to express how reducing the probability of these non anticipated states or states that are not favorable to maintaining their minimal metabolical needs will be reduced.
+14:14 [[start:854686][end:863582]] To stay alive, you have to do a bunch of things as a human being, but like every single embodied agent would you prefer to stay alive?
+[[start:863646][end:887098]] So there are some preferred basic states for which we've defined how action will be taken first to maintain metabolical states and how that coordinates with the environment, which entails that organisms and agents can be described in those terms.
+[[start:887184][end:907890]] Active inference tries to bring out those minimal assumptions in mathematical terms that try to express how reducing the probability of these non-anticipated states or states that are not favorable to maintaining their minimal metabolical needs will be achieved.
 
 15:08 [[start:908230][end:908642]] Right?
-[[start:908696][end:932490]] And that can be catched in terms of a generative model, as we've been saying throughout the past actions, how this generative model sets specific times and organizes around specific parameters that can be described as trying to maintain those parameters within reasonable range.
+[[start:908696][end:932490]] And that can be cashed in terms of a generative model, as we've been saying throughout the past actions, how this generative model sets specific times and organizes around specific parameters that can be described as trying to maintain those parameters within a reasonable range.
 
-15:33 [[start:933470][end:941510]] So by minimizing free energy on average and over time, this system will self organize.
+15:33 [[start:933470][end:941510]] So by minimizing free energy on average and over time, the system will self-organize.
 [[start:941590][end:948462]] So we will bring out the parameters of its internal states that occupy a limited number of possible states.
-[[start:948516][end:961406]] We will set into a specific range that will then be then will be used as somewhat the base and the guide for this behavior.
+[[start:948516][end:961406]] We will set them into a specific range that will then be used somehow as the base and the guide for this behavior.
 
 16:01 [[start:961518][end:967554]] You have two kinds of dynamics happening here, right?
 [[start:967672][end:969814]] That's what I want to talk about a little bit.
-[[start:969932][end:977634]] So we have then a phenotype that exists in a specific type of states, but that will have to coordinate two different kinds of dynamics.
+[[start:969932][end:977634]] So we have then a phenotype that exists in a specific type of state, but that will have to coordinate two different kinds of dynamics.
 [[start:977682][end:981338]] They're going to be stated here as complementary, right?
-[[start:981424][end:984054]] You have flow states and have belief updating.
+[[start:981424][end:984054]] You have flow states and you have belief updating.
 
-16:24 [[start:984182][end:1011490]] So with flow states you have one type of modeling which is the known equilibrium steady states that we use intrinsic is named here intrinsic information geometry and you have belief updating that can be treated as extrinsic informational geometry and those are different types of modeling or different types of thinking about those processes that's most important, right?
+16:24 [[start:984182][end:1011490]] So with flow states you have one type of modeling which is the known equilibrium steady states that can be treated as intrinsic information geometry, and you have belief updating that can be treated as extrinsic informational geometry and those are different types of modeling or different types of thinking about those processes. That's most important, right?
 
-16:51 [[start:1011640][end:1020882]] So in terms of flow states we can talk about dynamical system and how you settle and self organize specific parameters.
-[[start:1020946][end:1047150]] And in terms of belief updating we will be talking about Bayesian mathematics and Bayesian cognition and specific ways of cashing out how an agent will change and behave over time in relation to the dynamics that is set into place in this state space of possible actions.
+16:51 [[start:1011640][end:1020882]] So in terms of flow states we can talk about dynamical systems and how you settle and self-organize specific parameters.
+[[start:1020946][end:1047150]] And in terms of belief updating we will be talking about Bayesian mathematics and Bayesian cognition and specific ways of cashing out how an agent will change and behave over time in relation to the dynamics that are set into place in the state space of possible actions.
 
-17:29 [[start:1049570][end:1063854]] So while dynamical systems will explore temporal and contextual, dependence between environment and agent will set this specific state space that has temporal dimension and has contextual dimension.
-[[start:1063982][end:1078502]] And once this state space is sort of established, we have more or less deterministic approach to what can possibly unfold.
+17:29 [[start:1049570][end:1063854]] So while dynamical systems will explore temporal and contextual dependence between environment and agent, this will set the specific state space that has temporal dimension and has contextual dimension.
+[[start:1063982][end:1078502]] And once this state space is sort of established, we have more or less a deterministic approach to what can possibly unfold.
 
-17:58 [[start:1078566][end:1100186]] So how changes and how behavior can be cashed out in terms of nondeterministic behavior and that is defined by the different type of probabilistic thinking which is the Bayesian mechanics of belief, of belief updating.
-[[start:1100298][end:1111540]] So we have then a process of belief updating throughout weighted interactions within this range of possible states.
-[[start:1111910][end:1121030]] So we do have dynamics and we do also have biasian process unfolding together in terms of mechanisms.
+17:58 [[start:1078566][end:1100186]] So this is how changes and behavior can be cashed out in terms of nondeterministic behavior that is defined by the different types of probabilistic thinking which is the Bayesian mechanics of belief updating. 
+[[start:1100298][end:1111540]] So we have then a process of belief updating through weighted interactions within this range of possible states.
+[[start:1111910][end:1121030]] So we do have dynamics and we do also have a Bayesian process unfolding together in terms of mechanisms.
 
 18:42 [[start:1122570][end:1132490]] And with that we do have mathematical statements providing a unifying perspective on formal approaches connecting behavior and dynamics.
-[[start:1132910][end:1149242]] So that's what active inference should be bringing about as a novelty in relation to older forms of understanding organisms which can either cash things out in term of behavior or in terms of dynamics.
+[[start:1132910][end:1149242]] So that's what active inference should be bringing about as a novelty in relation to older forms of understanding organisms which can cash things out either in term of behavior or in terms of dynamics.
 
-19:09 [[start:1149386][end:1157250]] So trying to bring these two things together is quite interesting to understand how symbols and what is semantics for instance?
+19:09 [[start:1149386][end:1157250]] So trying to bring these two things together is quite interesting to understand about symbols and what semantics are, for instance?
 [[start:1157750][end:1162434]] So that's the question I will be asking right now.
 [[start:1162552][end:1164600]] Let's talk a little bit about that.
 
-19:25 [[start:1165690][end:1183290]] I'm drawing here from quite interesting paper from Maxwell Ramstead and in politely is free energy principle a principle for formal semantics?
+19:25 [[start:1165690][end:1183290]] I'm drawing here from quite interesting paper from Maxwell Ramstead, Karl Friston and Ines Hipolito "Is the free energy principle a formal theory of semantics?
 [[start:1183630][end:1186262]] So what would be formal semantics?
 [[start:1186326][end:1189774]] It sounds like an oxymoron, right?
 [[start:1189812][end:1192894]] Like how semantics can be formal, how can you formalize it?
 [[start:1192932][end:1195678]] So semantics, the theory of meaningful things.
 
 19:55 [[start:1195844][end:1198960]] So how can that be empty of content?
-[[start:1200050][end:1210370]] Well, it has a few principles in which you can explain what formal semantics should how a formal semantics should be understood.
+[[start:1200050][end:1210370]] Well, it has a few principles in which you can explain what  how a formal semantics should be understood.
 
 20:10 [[start:1210950][end:1223206]] First off, we have Bayesian formalism that does not necessarily have to commit to classical notions of representations which are propositional in nature, have propositional semantic content.
 [[start:1223308][end:1231894]] So the idea is that you can use the notion of a representation in a way that is not necessarily contentful.
-[[start:1231942][end:1233866]] So how that's going to be?
+[[start:1231942][end:1233866]] So how is that going to be?
 
 20:34 [[start:1234048][end:1238422]] So under the free energy principle, representations can be formal.
-[[start:1238486][end:1270470]] That's the argument they are bringing under the physics of flow, specifically dynamical system theories and information geometry you can have these mathematical statements that only represent possible specific ways of interacting, how these correlations will affect each other over time in this variational base type of cashing out mathematical functionals.
+[[start:1238486][end:1270470]] That's the argument they are bringing. Under the physics of flow, specifically dynamical systems theories and information geometry, you can have these mathematical statements that only represent possible specific ways of interacting, how these correlations will affect each other over time in this variational Bayes type of cashing out mathematical functionals.
 
 21:12 [[start:1272090][end:1277942]] In this sense, we can talk about representational, how they can be understood under this formalism.
-[[start:1278006][end:1289122]] And what they are saying is they are best understood as internal structures that enable the system to parse out their sensory sensitivities or the sensory streams.
-[[start:1289286][end:1303750]] So to organize them in specific parameters and also in the terms of their own Markov blankets in their blanket states, which is interesting here.
-
-21:43 [[start:1303820][end:1326570]] What is the new genealogy of this paper is that grounding a mathematical model in these mathematical properties of the system will avoid grounding these properties in terms of the properties of symbols and thematics in abstract or subjective notions of meaning, but impossible ranges of action.
-[[start:1328130][end:1351886]] So summing up, what we had before was a type of computational model that had specific components that does not allow for the intelligibility intelligibility of a cognitive component which is intention, which is motivation, context, brain, computer metaphors.
+[[start:1278006][end:1289122]] And what they are saying is they are best understood as internal structures that enable the system to parse out their sensory sensitivities or the sensory streams,
+[[start:1289286][end:1303750]] so to organize them in specific parameters and also in the terms of their own Markov blankets in their blanket states.
+21:43 [[start:1303820][end:1326570]] What is interesting here is the new genealogy of this paper in that grounding a mathematical model in these mathematical properties of the system will avoid grounding these properties in terms of the properties of symbols and semantics in abstract or subjective notions of meaning, but impossible ranges of action.
+[[start:1328130][end:1351886]] So summing up, what we had before was a type of computational model that had specific components that does not allow for the intelligibility of a cognitive component which is intention, which is motivation, context, brain, computer metaphors.
 
 22:31 [[start:1351998][end:1361766]] We have neuro and cognitive activity often seen as a transfer of symbolic information and cognition, then a snapshot of this transfer.
 [[start:1361868][end:1374090]] So it's totally dependent of that kind of symbolical transfer which is really difficult to explain how that's going to be biologically plausible and there's a lot of effort trying to do that.
-[[start:1374160][end:1382606]] So if you're interested in this, there's a very vast wealth of literature but they have to answer to this problem.
+[[start:1374160][end:1382606]] So if you're interested in this, there's a very vast wealth of literature but they have to answer this problem.
 
-23:02 [[start:1382788][end:1400786]] So how the mind and brain needs to produce an impromptu response to inputs of the external environment all the time and the idea of this formal semantics the authors is trying to explain is trying to include this component into the model.
-[[start:1400888][end:1408070]] So you have a deflationary model about content, so you have a formal semantics, you have semantics without content.
-[[start:1408220][end:1415598]] Interestingly and formulated as a variation of free energy functional.
+23:02 [[start:1382788][end:1400786]] So how the mind and brain need to produce an impromptu response to inputs of the external environment all the time and the idea of this formal semantics the authors is trying to explain is trying to include this component into the model.
+[[start:1400888][end:1408070]] So you have a deflationary model about content, you have a formal semantics, you have semantics without content,
+[[start:1408220][end:1415598]] interestingly, and formulated as a variation of a free energy functional.
 
-23:35 [[start:1415714][end:1451560]] So those structures that embody those process correspond to states in the system and we also have the biological component that can be formalized in terms of disturb informational geometry that these two densities do probabilistic densities, one from the dynamics and one from the Bay agent describing behavior and now what?
-[[start:1451630][end:1455648]] So how can active inference be compatible to biosematics?
+23:35 [[start:1415714][end:1451560]] So those structures that embody those processes correspond to states in the system and we also have the ecological component that can be formalized in terms of informational geometry that these two probabilistic densities, one from the dynamics and one from the Bayesian agent describing behavior and now what?
+[[start:1451630][end:1455648]] How can active inference be compatible with biosematics?
 
 24:15 [[start:1455684][end:1459180]] Can it be actually compatible or is it even necessary?
 
-24:21 [[start:1461840][end:1489508]] Well, active inference is a very general framework and then it does not really give us the tools to understand how encoding can happen in terms of symbols, like how they can be broadcasted into collective action because prediction alone does not explain how do they come about.
+24:21 [[start:1461840][end:1489508]] Well, active inference is a very general framework and then it does not really give us the tools to understand how encoding can happen in terms of symbols, like how they can be broadcast into collective action because prediction alone does not explain how they come about.
 
-24:49 [[start:1489594][end:1509836]] So in this sense we do have meaningful correlations that refer to the dynamics of one or two or more systems in terms of informational geometry that needs to be cached out with predictive value.
+24:49 [[start:1489594][end:1509836]] So in this sense we do have meaningful correlations that refer to the dynamics of one or two or more systems in terms of informational geometry that needs to be cashed out with predictive value.
 [[start:1509938][end:1513870]] So how is this possible?
 
 25:16 [[start:1516080][end:1519724]] Well, we can talk about that in terms of shared attention.
