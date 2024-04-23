@@ -411,14 +411,14 @@
 [[start:2985354][end:2991570]] That's why I was trying to think of it as not being a primitive, but something that comes along with these dynamics.
 
 49:57 _Daniel:_
-[[start:2997450][end:3012550]] Well, this is a very deep impresscient point that because the causal structure of the world changes, historiosity agents change, they learn and they attend, and then the niche changes with stigma g and niche modification.
-[[start:3012630][end:3037614]] So because things really do change through time, then just training a data set at one time point and then using that same generative model and carrying it forward, it's like picking a speed in a direction when you're on a winding road and just saying, all right, now let's turn on cruise control right now and just keep going in this direction.
+[[start:2997450][end:3012550]] Well, this is a very deep and prescient point that because the causal structure of the world changes, historiosity, agents change, they learn and they attend, and then the niche changes with stigma g [??] and niche modification. 
+[[start:3012630][end:3037614]] So because things really do change through time, then just training a data set at one time point and then using that same generative model and carrying it forward, it's like picking a speed in a direction when you're on a winding road and just saying, all right, now let's turn on cruise control right now and just keep going in this direction 
 [[start:3037662][end:3039140]] It's working right now.
 [[start:3040630][end:3052070]] So then to connect that to the legibility of the forests as the causal model changed and externalities were not taken into account and so on, all these different features you brought in.
-[[start:3052220][end:3092820]] So now is active inference and cognitive modeling, cognitive technologies increasing our legibility of perception, cognition and action through surveillance technology and other mechanisms such that there could be we expect there to be also hidden dynamics and externalities that we are also failing to see when we make some aspects of cognitive systems legible in the way that research in the neurosciences is happening towards.
+[[start:3052220][end:3092820]] So now is active inference and cognitive modeling, cognitive technologies increasing our legibility of perception, cognition and action through surveillance technology and other mechanisms such that there could be - we expect there to be - also hidden dynamics and externalities that we are also failing to see when we make some aspects of cognitive systems legible in the way that research in the neurosciences is happening towards.
 
 51:34 _Lorena:_
-[[start:3094870][end:3109606]] Yeah, I think in the sense if you're trying to do that, you cannot have a no like in a model that encompasses everything, right, that would be non informative in terms of when you do that, you're interested in something, right?
+[[start:3094870][end:3109606]] Yeah, I think in the sense if you're trying to do that, you cannot have a model that encompasses everything, right, that would be non informative in terms of when you do that, you're interested in something, right?
 [[start:3109708][end:3121494]] You have one thing in mind when you're trying to flesh out in terms of cognitive modeling, how that applies to these more all encompassing situations.
 [[start:3121542][end:3125294]] I think that's like that model is how I'm trying to ask this question.
 [[start:3125412][end:3136260]] So you can model them in this sliced sense and that's what we do as scientists and that's how we learn about things.
@@ -431,25 +431,25 @@
 52:35 [[start:3155130][end:3157382]] I don't have a question and an answer for that.
 [[start:3157436][end:3164426]] I don't know if we do have an answer for this type of question currently.
 
-52:44 [[start:3164528][end:3183626]] But I think it's a very valid question to ask because also in the terms of sometimes applying that socially, that sort of raifies in a way and then it becomes an organizing principle that becomes somewhat raified.
-[[start:3183738][end:3200040]] So keep an eye for these kinds of metaphorical use, like assuming a little bit that all this talk can be metaphorical and it can be interesting and useful to catch them out in these terms because they don't have other ways to talk about them.
-[[start:3201450][end:3217798]] So how we don't Raify them and how they are, because I'm having a hard time to get there, but I think I'm making the point of people criticizing the causal primacy.
+52:44 [[start:3164528][end:3183626]] But I think it's a very valid question to ask because also in the terms of sometimes applying that socially, that sort of reifies in a way and then it becomes an organizing principle that becomes somewhat reified.
+[[start:3183738][end:3200040]] So keep an eye for these kinds of metaphorical use, like assuming a little bit that all this talk can be metaphorical and it can be interesting and useful to cash them out in these terms because they don't have other ways to talk about them.
+[[start:3201450][end:3217798]] So how we don't reify them and how they are, because I'm having a hard time to get there, but I think I'm making the point of people criticizing the causal primacy.
 
 53:37 [[start:3217894][end:3233546]] So when you reduce these complex systems to one single cause, cashing out everything that organizes these complex systems in one primal cause, then you are losing the complexity.
 [[start:3233738][end:3240306]] However, if you don't do that, how can you slice it out to understand the system?
 
-54:00 [[start:3240488][end:3250340]] So I think that's the two tensions here that I'm kind of trying to propose as a question instead of an answer.
-[[start:3251590][end:3255414]] I don't know if that makes sense, but are you thinking, yeah, I hope.
+54:00 [[start:3240488][end:3250340]] So I think that's the two tensions here that I'm kind of trying to propose as a question instead of as an answer.
+[[start:3251590][end:3255414]] I don't know if that makes sense, but are you thinking...
 
 54:15 _Daniel:_
-[[start:3255452][end:3257058]] People continue that discussion.
+[[start:3255452][end:3257058]] Yeah, I hope people continue that discussion.
 [[start:3257234][end:3262298]] I'm going to build on that just to kind of maybe circle around that because it's really important.
 [[start:3262384][end:3282474]] So in the forestry case, the realist perspective, again using retro casting the way we or contemporary discussions, some of them in the active inference and free energy principle space are the realist says that region of land is just economic potential.
 
 54:42 [[start:3282602][end:3286270]] It is a natural resource that becomes a kind of handle.
 [[start:3286770][end:3294254]] The instrumentalist perspective takes a step back and says it's as if that piece of land is a natural resource.
 [[start:3294302][end:3298466]] So, yeah, the territory is indescribable and there's still a space for mystery.
-[[start:3298578][end:3334410]] But then when the proxies come out because policies are being selected, the as if in some ways carries similar consequences to the actual and they may totally agree and the realists and the instrumentalists might be like, yeah, it is economic potential or represents or it could be treated as such or it could be engaged with as such that cognitive diversity can align on the social policy that then connects to these broader social questions and histories.
+[[start:3298578][end:3334410]] But then when the proxies come out because policies are being selected, the "as if" in some ways carries similar consequences to the actual and they may totally agree and the realists and the instrumentalists might be like, yeah, it is economic potential or represents or it could be treated as such or it could be engaged with as such. Tthat cognitive diversity can align on the social policy that then connects to these broader social questions and histories.
 
 55:34 [[start:3334570][end:3338514]] And so it's kind of interesting, like, what work does this instrumentalism do?
 
@@ -459,14 +459,14 @@
 
 55:56 _Lorena:_
 [[start:3356250][end:3366362]] Yeah, that's very interesting in the sense I don't know if you're realist or instrumentalist about that, if you think models are not either true or false, they're just models, right.
-[[start:3366416][end:3371846]] They might have used and they might be capturing real properties.
+[[start:3366416][end:3371846]] They might have use and they might be capturing real properties.
 
-56:11 [[start:3371958][end:3389810]] But the problem is, in this conversation, even when you push them, like have realists and have an instrumentalist try to loosen up a little bit these assumptions, they still end up refine those principles and taking them to be more or less true or false.
+56:11 [[start:3371958][end:3389810]] But the problem is, in this conversation, even when you push them, like you have a realists and an instrumentalist trying to loosen up a little bit these assumptions, they still end up refining those principles and taking them to be more or less true or false.
 [[start:3390150][end:3390850]] Right?
 
 56:31 _Daniel:_
 [[start:3391000][end:3392622]] Well, that's kind of a plot twist.
-[[start:3392686][end:3403014]] It's like you're appealing to what surprise, minimization as unifying the diversity responses that the realist and instrumentalists do.
+[[start:3392686][end:3403014]] It's like you're appealing to what surprise minimization as unifying the diversity responses that the realist and instrumentalists do.
 [[start:3403052][end:3413260]] So then does that make surprise or cognitive inertia, like the er principle where the maze just ends and it explains itself?
 
 56:53 [[start:3413870][end:3418650]] Or how does that play in a pluralistic scientific setting?
@@ -478,13 +478,13 @@
 
 57:21 [[start:3441670][end:3446178]] I'm thinking I have in mind now, actually, just to try to make sense of that.
 [[start:3446344][end:3453746]] When you think about biological information, you can think about biological information as being real, as being metaphorical and instrumental.
-[[start:3453938][end:3462854]] Or you have these guys like Susan Oyama or Richard lewantin, they try to bring some they are against this cause of primacy.
+[[start:3453938][end:3462854]] Or you have these guys like Susan Oyama or Richard Lewantin, they try to bring some, they are against this cause of primacy.
 [[start:3462902][end:3470266]] They try to advocate for systems that do have that, but they have a lot of more going on.
-[[start:3470368][end:3479210]] So that cannot be the only answer because those systems are not everywhere scientifically.
+[[start:3470368][end:3479210]] So that cannot be the only answer because those systems are not everywhere.
 
-58:00 [[start:3480450][end:3482590]] They don't have to be everywhere.
+58:00 [[start:3480450][end:3482590]] Scientifically they don't have to be everywhere.
 [[start:3483170][end:3488222]] That, for example, going back to the forestry.
-[[start:3488286][end:3504070]] So the realist is going to say that territory is valued property in the sense the instrumental is going to say, look as if it can be used as if but it's not necessarily value property.
+[[start:3488286][end:3504070]] So the realist is going to say that territory is valued property in the sense the instrumental is going to say, look as if it can be used as if but it's not necessarily valued property.
 [[start:3504220][end:3505158]] It doesn't matter.
 [[start:3505244][end:3514650]] You can say like, well, this terrain is seen from one perspective as value property, but it also has other uses around them.
 
@@ -497,16 +497,16 @@
 
 59:15 [[start:3555884][end:3559320]] The model has a specific use and that's fine.
 [[start:3559690][end:3563020]] However, that does not reduce the terrain to that.
-[[start:3564910][end:3597038]] Well when you're talking about cognition, that might be more complicated, but I think it's an easy way to talk about this cause of primacy when you talk about forestry because we are very much now experiencing this climate crisis and we see these things happening right now and how difficult because this type of thinking is built over time and so well fixed in the way we see things and we are understanding how hard is to change that.
-[[start:3597204][end:3597894]] It not.
+[[start:3564910][end:3597038]] Well when you're talking about cognition, that might be more complicated, I think it's an easy way to talk about this causal primacy when you talk about forestry because we are very much now experiencing this climate crisis and we see these things happening right now and how difficult because this type of thinking is built over time and so well fixed in the way we see things and we are understanding how hard it is to change that.
+[[start:3597204][end:3597894]] 
 [[start:3597932][end:3602680]] It's a paradigm shift that needs to happen for that to change.
 
-1:00:03 [[start:3603130][end:3610120]] It's not necessarily the model that is right or wrong, it's just how you understand and apply them.
+1:00:03 [[start:3603130][end:3610120]] It's not necessarily that the model that is right or wrong, it's just how you understand and apply it.
 
 1:00:12 [[start:3612010][end:3614634]] So there are pragmatics into that.
 [[start:3614672][end:3620422]] It's not only an instrumental, but it has something that the instrumentalist take does not capture.
-[[start:3620486][end:3626502]] And I don't know how to catch it out in one single word, but that's what Biosimatics was offering.
-[[start:3626566][end:3631226]] Biosymiatics was offering the idea of practice and pragmatics.
+[[start:3620486][end:3626502]] And I don't know how to cash it out in one single word, but that's what Biosemantics was offering.
+[[start:3626566][end:3631226]] Biosemantics was offering the idea of practice and pragmatics.
 
 1:00:31 [[start:3631338][end:3636900]] I don't know if it's the whole story, but it's another point into that story.
 
@@ -517,17 +517,17 @@
 [[start:3670022][end:3673502]] And it consists of the pragmatic and the epistemic value.
 [[start:3673556][end:3675706]] That's how these different policies are evaluated.
 
-1:01:15 [[start:3675818][end:3689938]] And so I see two angles or windows that that supports, at least from my non social sciences background, a new kind of meeting in the middle there.
-[[start:3690104][end:3700998]] So first is the expansion of pragmatic value under the principle that surprise, minimization or bounding is the imperative right there in the pragmatic value.
+1:01:15 [[start:3675818][end:3689938]] And so I see two angles or windows that that supports, at least from my non-social sciences background, a new kind of meeting in the middle there.
+[[start:3690104][end:3700998]] So first is the expansion of pragmatic value under the principle that surprise minimization or bounding is the imperative. Right there in the pragmatic value,
 
-1:01:41 [[start:3701084][end:3706370]] It doesn't have to be just body temperature or financial income.
+1:01:41 [[start:3701084][end:3706370]] it doesn't have to be just body temperature or financial income.
 [[start:3706530][end:3712234]] We can expect and prefer ourself to be learning new things or meeting new people.
 [[start:3712352][end:3724298]] And so we can load into the pragmatism different goals that under a narrower definition of utility or pragma have not traditionally been included.
 
 1:02:04 [[start:3724314][end:3732414]] So I think that first way is it speaks to a more inclusive concept of utility, you might say.
 [[start:3732452][end:3739550]] I'm also derisking on forest fires alongside the timber and already you have now plural pragma.
-[[start:3739630][end:3747310]] So I think that's the kind of crossover and then the deeper and second and not saying there's only two ways that the conversation continues.
-[[start:3747390][end:3771210]] We have epistemic utility in terms of epistemic value and so the balance and the weighting between pragmatic value and epistemic or learning oriented activity overall helps control a dynamics balance with just like how tight is the grip and the preference overall.
+[[start:3739630][end:3747310]] So I think that's the kind of crossover and then the deeper and second, and not saying there's only two ways that the conversation continues,
+[[start:3747390][end:3771210]] we have epistemic utility in terms of epistemic value and so the balance and the weighting between pragmatic value and epistemic or learning-oriented activity overall helps control a dynamic balance with just, like, how tight is the grip and the preference overall.
 
 1:02:51 [[start:3771870][end:3779934]] And maybe we have some preference for timber to be exported from a region but we really don't know.
 
@@ -548,17 +548,17 @@
 [[start:3867072][end:3867660]] Right?
 [[start:3868350][end:3871578]] And that's not trivial how that happens.
 [[start:3871664][end:3871962]] Right?
-[[start:3872016][end:3885120]] And even if it does, and even if it were trivial, it's not something that maps out completely identically with every single agent.
+[[start:3872016][end:3885120]] And even if it does, and even if it were trivial, it's not something that maps out completely, identically with every single agent.
 
 1:04:46 [[start:3886770][end:3888402]] There's going to be diversity there.
-[[start:3888536][end:3895362]] So how do you make that notion more inclusive and less raified in that sense?
+[[start:3888536][end:3895362]] So how do you make that notion more inclusive and less reified in that sense?
 
-1:04:55 [[start:3895496][end:3904498]] Because then if the more you Raify, the more you single it out into around only one general type of understanding.
-[[start:3904674][end:3918838]] So when you think them more individually, then you lose that strength of this one single principle organized, one single way of cashing out utility.
+1:04:55 [[start:3895496][end:3904498]] Because then if the more you reify, the more you single it out into around only one general type of understanding.
+[[start:3904674][end:3918838]] So when you think of them more individually, then you lose that strength of this one single principle organized, one single way of cashing out utility.
 [[start:3918934][end:3920038]] That's not the principle.
 
 1:05:20 [[start:3920134][end:3920780]] Sorry.
-[[start:3922110][end:3936218]] So I think that speaks a lot with the type of instrumental use and the type of pragmatism, the types of application of these practices.
+[[start:3922110][end:3936218]] So I think that speaks a lot with the type of instrumental use and the type of pragmatism, and the types of application of these practices.
 [[start:3936314][end:3936730]] Right.
 [[start:3936820][end:3942110]] Remember, in the sense of the scientific forestry, it's also a practice.
 [[start:3942190][end:3950486]] It's not something that is true in itself, it's true in terms of practice, right, in terms of applications, in terms of building communities around them.
@@ -573,15 +573,15 @@
 [[start:4013846][end:4020806]] We could have this kind of mind in this kind of brain in this kind of environment and this kind of niche.
 
 1:07:00 [[start:4020918][end:4034830]] And so we can talk about the ant colony foraging algorithms that work in the desert and there might be mutual, nonexhausted, open ended change of algorithms and what works in a different setting.
-[[start:4035350][end:4072054]] And with humans we have the sophistication and the history and the scope and the scale and all of these metas and weaving with is and ought and our own forward going direction, which is really the moment where it goes from being a forensic sociology to the real time sense making and action selection based upon our cognitive models.
-[[start:4072182][end:4075390]] In the broader sense, which includes humans and non human agents.
+[[start:4035350][end:4072054]] And with humans we have the sophistication and the history and the scope and the scale and all of these metas and weaving with is and ought and our own forward going direction, which is really the moment where it goes from being a forensic sociology to the real time sense making and action selection based upon our cognitive models
+[[start:4072182][end:4075390]] in the broader sense, which includes humans and non human agents.
 [[start:4075460][end:4090820]] But it's like that's when it goes from being more than just an understanding, when that understanding translates to an action policy and they do, then it matters as much as anything does.
 
 1:08:13 _Lorena:_
 [[start:4093110][end:4093860]] Yeah.
-[[start:4094230][end:4105270]] One of the criticism of the active inference, I think common is like it is too general to single out specific constraints that orient action.
-[[start:4105850][end:4138442]] That's what I thought thinking about how symbols are brought about in community of language users, assuming that the symbols are not they are only meaningful throughout these histories and practices can help us to apply this type of general yeah, navigating specific, well, epistemic communities.
-[[start:4138506][end:4145522]] And I think that's the work that Maho is going to bring along in terms of epistemic communities and then you single out in them.
+[[start:4094230][end:4105270]] One of the criticism of the active inference, I think common, is like it is too general to single out specific constraints that orient action.
+[[start:4105850][end:4138442]] That's what I thought thinking about how symbols are brought about in community of language users, assuming that the symbols are not, they are only meaningful throughout these histories and practices can help us to apply this type of general story, navigating specific, well, epistemic communities.
+[[start:4138506][end:4145522]] And I think that's the work that Mahault is going to bring along in terms of epistemic communities and then you single out in them.
 [[start:4145576][end:4155430]] So you have these communities of language users in which specific practices create specific orientations.
 
 1:09:17 _Daniel:_
@@ -589,14 +589,14 @@
 [[start:4157996][end:4172198]] One thought on that asking like what does active inference or linear regression or some other method again, this is who knows, is this just deep esoteric instrumentalism?
 [[start:4172374][end:4175410]] But asking what does it have to say about this symbol?
 [[start:4175510][end:4179230]] What does active inference have to say about the letter E in English?
-[[start:4180930][end:4196638]] Can it be as simple as to say that that's a category error and that you could make a toy example or a pedagogical example where symbol one and symbol two oscillate in a multi agent simulation or you could make a generative model for an alphabet and leave it abstract.
+[[start:4180930][end:4196638]] Can it be as simple as to say that that's a category error and that you could make a toy example or a pedagogical example where symbol one and symbol two oscillate in a multi-agent simulation or you could make a generative model for an alphabet and leave it abstract.
 
 1:09:56 [[start:4196734][end:4212810]] But you're never going to connect to the historiosity and the real enactment of the English letter E unless you're confronting the minute particulars and the actual embodiment of that letter.
 [[start:4213470][end:4222650]] And then there's different course grainings, different iterated modeling decisions, different questions about how do you include and participate in the different stages of the scientific process.
 
 1:10:22 [[start:4222720][end:4230654]] But it's like you're in the specifics at that point, active inference doesn't have an opinion on the letter E because we wouldn't want it to.
 [[start:4230772][end:4232974]] It would be too opinionated about the wrong things.
-[[start:4233012][end:4250194]] It'd be making assumptions and bringing axioms into play that would be extremely constraining and so it remains general as a framework and the free energy principle even more differently.
+[[start:4233012][end:4250194]] It'd be making assumptions and bringing axioms into play that would be extremely constraining and so it remains general as a framework and the free energy principle even more/differently so.
 
 1:10:50 [[start:4250242][end:4255318]] So but when we get into the actual, that's where we're connecting to the real systems of interest.
 [[start:4255484][end:4267660]] But how could we make claims and advance them socially about systems of interest when we're not even it's like comparing bridge building as a concept with this bridge right here.
@@ -606,11 +606,11 @@
 [[start:4275650][end:4280720]] Yeah, well, it depends also how you single out some things.
 [[start:4281490][end:4284190]] You just don't do that because they're just not interesting enough.
 [[start:4284260][end:4284842]] Right.
-[[start:4284996][end:4295170]] There's nothing that comes out of it in terms of this bridge right here in a single how did you put it again?
+[[start:4284996][end:4295170]] There's nothing that comes out of it in terms of this bridge right here in a single - how did you put it again?
 [[start:4295240][end:4307880]] Like a category of bridges and this bridge right here, right when you do that you can learn something about the category in terms of this single one right here.
 
 1:11:48 [[start:4308650][end:4316282]] But it's not exhaustive that's I think one point it's not exhaustive and it's not right or wrong.
-[[start:4316336][end:4326622]] It might be better than other I think they did you can make some comparisons in terms of predictive value.
+[[start:4316336][end:4326622]] It might be better than other bridges. I think you can make some comparisons in terms of predictive value.
 [[start:4326676][end:4332350]] You can have better or worse ways of doing it and then it gains more utility.
 
 1:12:13 _Daniel:_
@@ -619,27 +619,27 @@
 
 1:12:32 [[start:4352284][end:4358966]] And so somebody makes a state space and says well, I'm exploring if there was more than two end to end.
 [[start:4359068][end:4370650]] So they're exploring the state space of topologies of bridge and someone else is exploring the state space of color and somebody else is exploring the state space of traffic dynamics and someone else is combining two of them or combining all three of them.
-[[start:4370800][end:4382640]] And then that's the conversation is which map of this category of state spaces, category of adjacent possibles as we chose to model it.
+[[start:4370800][end:4382640]] And then that's the conversation: which map of this category of state spaces, category of adjacent possibles as we chose to model it.
 [[start:4383330][end:4389150]] And if you don't include traffic flow, don't be surprised that it's not going to take that kind of data or make that kind of prediction.
 [[start:4389310][end:4394030]] And some variables matter and some matter in combination and some don't.
 
 1:13:14 [[start:4394190][end:4407560]] But when we model, we kind of build these regions or adjacencies to the actual which is where the historiosity of the past leaves us.
-[[start:4408410][end:4422650]] And then we have an adjacent possible as modelers and sense makers including absurd counterfactuals and state spaces and then the state spaces are mobilized.
+[[start:4408410][end:4422650]] And then we have an adjacent possible as modelers and sense-makers including absurd counterfactuals and state spaces and then the state spaces are mobilized.
 
 1:13:46 _Lorena:_
 [[start:4426340][end:4427184]] Yeah, in a way.
 [[start:4427222][end:4435996]] But if you talk about specific type of engineering yes, in that sense they are mobilized and they are not true or false.
 [[start:4436028][end:4439570]] You can use false models that still function.
 
-1:14:02 [[start:4442260][end:4446420]] You can have specific uses of things that you know they're not really true.
-[[start:4446490][end:4460996]] Like the thing, the taleric type of modeling, the solar system, they still use that to navigate in the desert even though it's not really accurate.
+1:14:02 [[start:4442260][end:4446420]] You can have specific uses of things that you know are not really true.
+[[start:4446490][end:4460996]] Like the thing, the Ptolemaic type of modeling of the solar system, they still use that to navigate in the desert even though it's not really accurate.
 [[start:4461028][end:4467324]] But if you want to go from A to B, it helps you to do that, that's a different thing.
 [[start:4467362][end:4467950]] Right.
 [[start:4468400][end:4492710]] It's not true or false, but when you think about agents in terms of and if bringing back to the idea of symbols being only cashed out in terms of community of users that have histories and they are made useful, they are made meaningful in terms of their practices, then you don't have ever this disconnect, right?
 
 1:14:53 [[start:4493400][end:4499008]] You can think about this cognition is always connected to this specific types of practicing.
 [[start:4499104][end:4507450]] You can even single out some moments of it and try to see what you learn from this kind of slice of time.
-[[start:4508620][end:4525600]] But when you think about the whole story of the cognitive system, if you're going to really think of it in terms that is valuable, you cannot disconnect from the state, let's say the state space of its practice.
+[[start:4508620][end:4525600]] But when you think about the whole story of the cognitive system, if you're going to really think of it in terms that are valuable, you cannot disconnect from the state, let's say the state space of its practice.
 
 1:15:28 _Daniel:_
 [[start:4528100][end:4528656]] Awesome.
@@ -653,18 +653,18 @@
 [[start:4543882][end:4545860]] Any other thoughts?
 
 1:15:46 _Lorena:_
-[[start:4546440][end:4552376]] Yeah, would be cool to explore this idea that we've been actually bringing along here, right?
-[[start:4552478][end:4570300]] How we can go with that instrumentally, realistically or how can we understand this general synchronization of the model in terms of specific instantiations and how informative they are?
+[[start:4546440][end:4552376]] Yeah, it would be cool to explore this idea that we've been actually bringing along here, right?
+[[start:4552478][end:4570300]] How we can go with that instrumentally, realistically or how we can understand this general synchronization of the model in terms of specific instantiations and how informative they are?
 
 1:16:10 [[start:4570370][end:4571804]] Is that really interesting?
-[[start:4571922][end:4579084]] Or how can these things be actually raised in terms of modeling?
+[[start:4571922][end:4579084]] Or how can these things be actually reified in terms of modeling?
 [[start:4579132][end:4584736]] And if that happens, does that have any specific consequences actually or not?
 [[start:4584838][end:4585810]] Maybe not.
 
 1:16:28 _Daniel:_
 [[start:4588470][end:4589218]] Awesome.
 [[start:4589384][end:4593342]] Well, very ambitious and excellent lecture.
-[[start:4593406][end:4596660]] So thank you very much Lorena, and talk to you.
+[[start:4593406][end:4596660]] So thank you very much Lorena, and talk to you...
 
 1:16:37 _Lorena:_
 [[start:4597670][end:4601062]] Just keep in mind I was just like trying to ask these questions.
@@ -680,8 +680,8 @@
 
 1:17:02 [[start:4622220][end:4622818]] Epic.
 [[start:4622914][end:4623718]] All right.
-[[start:4623884][end:4624578]] Thank you, Lauren.
-[[start:4624594][end:4625790]] I see you in a couple of weeks.
+[[start:4623884][end:4624578]] Thank you, Lorena.
+[[start:4624594][end:4625790]] See you in a couple of weeks.
 [[start:4625900][end:4626750]] Farewell.
 
 1:17:07 _Lorena:_
