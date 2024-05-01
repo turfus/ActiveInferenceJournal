@@ -5,7 +5,7 @@
 [[start:13094][end:16768]] We're in the Active Inference for the Social Sciences course.
 [[start:16934][end:22796]] I'm Daniel Friedman, and this is going to be a lecture on collective behavior.
 
-00:22 [[start:22988][end:35572]] Now of course, disclaimers could abound and there's so many ways to go about this topic of collective behavior that in duality, in enactment, I really hope it is multi scale and collective.
+00:22 [[start:22988][end:35572]] Now of course, disclaimers could abound and there are so many ways to go about this topic of collective behavior that in duality, in enactment, I really hope it is multi-scale and collective.
 [[start:35716][end:42104]] I'm really looking forward to your comments and your engagement with this area, with this lecture, with this course.
 [[start:42222][end:48670]] So if you're watching Live, you can add comments into the live chat or questions and I'll check them out at the end.
 [[start:49040][end:59330]] Also in the YouTube live chat and in the video description, there is a link to where you can submit questions for all of the teachers of this course.
@@ -14,15 +14,15 @@
 01:02 [[start:62198][end:68628]] And just more generally, let's have fun enacting ecosystems of shared intelligence together.
 
 01:08 [[start:68794][end:77220]] And I hope that this lecture can be something like one attempt to make that happen.
-[[start:77370][end:83800]] epistemically, we're going to have many fun things to talk about collective behavior.
-[[start:84460][end:87012]] What differentiates it from simply behavior?
+[[start:77370][end:83800]] Epistemically, we're going to have many fun things to talk about collective behavior.
+[[start:84460][end:87012]] What differentiates it from simple behavior?
 [[start:87076][end:90948]] I mean, aren't all behaving systems assemblages?
 
 01:31 [[start:91124][end:95704]] Is not the brain composed of multiple parts, brain and body, multiple people?
 [[start:95822][end:98312]] What are we really talking about with individual behavior?
 [[start:98376][end:101020]] Why do we need adjectives at all for behavior?
-[[start:101520][end:105404]] What is a collective and how would we even know it except through its behavior?
-[[start:105452][end:107920]] So there's going to be all kinds of fun topics.
+[[start:101520][end:105404]] What is collective and how would we even know it except through its behavior?
+[[start:105452][end:107920]] So there are going to be all kinds of fun topics.
 
 01:50 [[start:110340][end:117628]] Avel provided me with this image and suggested that it would be a great place to head towards.
 [[start:117814][end:120308]] And so we can think of this as where we're going.
@@ -31,28 +31,28 @@
 02:24 [[start:144564][end:150408]] And so we can think about that agent of engagement with a social world and the dynamic of sociocultural constraints.
 [[start:150504][end:155484]] Now that's where we're going, and that's how someone else has framed where we're going.
 
-02:35 [[start:155682][end:159548]] What I'll tell you here is how we're getting there, how we're getting there.
-[[start:159634][end:161168]] It's going to be a lot of fun.
-[[start:161254][end:165456]] There's going to be a lot of ants, and the door is going to be wide open.
-[[start:165558][end:178820]] So everyone is an estimate on this slide and we're going to be with our regimes of attention and our stigmaergic trails just absolutely up, down, left, right, all over this sociocultural landscape.
+02:35 [[start:155682][end:159548]] What I'll tell you here is how we're getting there. How we're getting there,
+[[start:159634][end:161168]] it's going to be a lot of fun.
+[[start:161254][end:165456]] There are going to be a lot of ants, and the door is going to be wide open.
+[[start:165558][end:178820]] So everyone is an estimate on this slide and we're going to be with our regimes of attention and our stigmergic trails just absolutely up, down, left, right, all over this sociocultural landscape.
 [[start:179480][end:184680]] All right, so here's the plan for the collective behavior lecture.
 
 03:05 [[start:185180][end:188500]] It's going to be presented as a sequence of views.
 [[start:188660][end:199500]] Each view or perspective is going to consist of at very least a central citation and then one or more reflections on that citation.
 [[start:200640][end:208940]] Four views on collective behavior taken as a bundle will constitute a main section of this lecture.
 
-03:29 [[start:209100][end:221040]] And there are going to be three main sections of this lecture split on one hand into three groups of four and on the other hand into two groups of six splitting into fours.
-[[start:221120][end:238090]] The main three sections are going to be background and Context, which is going to provide some views and insights that are from outside of Active Inference because surprise, surprise, what was true before Active Inference or outside of Active Inference is also true within and after.
+03:29 [[start:209100][end:221040]] And there are going to be three main sections of this lecture split on one hand into three groups of four and on the other hand into two groups of six. Splitting into fours,
+[[start:221120][end:238090]] the main three sections are going to be background and Context, which is going to provide some views and insights that are from outside of Active Inference because surprise, surprise, what was true before Active Inference or outside of Active Inference is also true within and after.
 
 03:58 [[start:238780][end:240580]] Then we're going to turn to Active Inference.
 [[start:240660][end:255650]] Specifically, we're going to talk about Active Inference insights and fundamentals for collective behavior and applications and implications of utilizing or of conceptualizing of a social system as an Active Inference system.
-[[start:256180][end:266816]] So those second two sections are each going to center around also specific recent work in the field to split it into two groups of six.
-[[start:266998][end:286184]] The first six views that are presented so all of background and context and then half of the insights and fundamentals are going to be in support linguistically or rhetorically of a declarative statement, whereas the latter six views are going to support or open up to a question.
+[[start:256180][end:266816]] So those second two sections are each going to center around also specific recent work in the field. To split it into two groups of six,
+[[start:266998][end:286184]] the first six views that are presented so all of background and context and then half of the insights and fundamentals are going to be in support linguistically or rhetorically of a declarative statement, whereas the latter six views are going to support or open up to a question.
 
 04:46 [[start:286382][end:292170]] And that'll lead us to the final section, the fourth section, which is some open questions.
 
 04:52 [[start:292620][end:298620]] At that time, I will look at the live chat and review any questions or thoughts that people have.
-[[start:298770][end:307970]] And I'll also just open the door and leave it open with asking questions, because that's something that we're going to be engaged in for so long.
+[[start:298770][end:307970]] And I'll also just open the door and leave it open with asking questions, because that's something that we're going to be engaged in for so, so long.
 [[start:308340][end:312400]] So let's go right into the first section, background and context.
 [[start:313060][end:317600]] Here are the four views and the four declarative statements.
 [[start:318840][end:319952]] Big picture.
@@ -60,23 +60,23 @@
 05:20 [[start:320096][end:333908]] Many, if not all of the concepts, discussions, questions and views on collective behavior from before or outside of Active Inference also apply after or inside Active Inference or in the Active Inference ecosystem.
 [[start:334084][end:341412]] And so to support and to build out that point, I'm going to talk about four different works and some takeaways.
 [[start:341556][end:345020]] First, watching behavior is complex.
-[[start:345600][end:348636]] Here we'll look at Deborah Gordon's 1992 paper.
+[[start:345600][end:348636]] Here we'll look at Deborah Gordon's 1992 paper,
 
-05:48 [[start:348738][end:350510]] Wittgenstein and Ant watching.
+05:48 [[start:348738][end:350510]] Wittgenstein and Ant-watching.
 
 05:51 [[start:351280][end:357276]] Second, all intelligence is Collective Intelligence, which was a presentation of the same name by J.
 [[start:357298][end:357484]] F.
-[[start:357522][end:361570]] Klaudier earlier this year, referencing a paper of the same name.
-[[start:361940][end:362784]] Third.
-[[start:362982][end:364940]] We have never been individuals.
+[[start:357522][end:361570]] Cloutierier earlier this year, referencing a paper of the same name.
+[[start:361940][end:362784]] Third,
+[[start:362982][end:364940]] we have never been individuals.
 
 06:05 [[start:365100][end:366752]] A work by Gilbert et al.
-[[start:366806][end:386900]] From 2012, A Symbiotic View of Life we Have Never Been Individuals, little bit of the play on we have never been modern and the metaphors and frameworks and language that we use to talk about behavior, to talk about collective behavior, what adjectives we put in front of, what nouns, that matters.
-[[start:387060][end:397308]] And a great work that Ali shared with me that I think makes this point super well is by Navarro and Gabriellitis from 23.
-[[start:397474][end:400600]] And that work is the morphology of collective intelligence.
-[[start:400680][end:404708]] Network swarm, multitude or assemblage.
+[[start:366806][end:386900]] from 2012, "A Symbiotic View of Life:We Have Never Been Individuals," a little bit of a play on "We have never been modern" and the metaphors and frameworks and language that we use to talk about behavior, to talk about collective behavior, what adjectives we put in front of, what nouns, that matters.
+[[start:387060][end:397308]] And a great work that Ali shared with me that I think makes this point super well is by Navarro and Gabrielidis from 2023.
+[[start:397474][end:400600]] And that work is "The morphology of collective intelligence:
+[[start:400680][end:404708]] Network swarm, multitude or assemblage?"
 
-06:44 [[start:404904][end:411570]] So let's head straight to Professor Gordon's 1992 work on Wittgenstein and Ant Watching.
+06:44 [[start:404904][end:411570]] So let's head straight to Professor Gordon's 1992 work on Wittgenstein and Ant-Watching.
 
 06:51 [[start:411940][end:434628]] And so just also for context, professor Gordon was my PhD advisor and so I was able to engage with this material and perspective through asynchronous means such as this paper, but also seeing it actually play out on a sociocultural landscape in the desert in southeast Arizona.
 [[start:434804][end:437960]] That's where the complexity really flowered.
@@ -90,49 +90,49 @@
 [[start:466684][end:471780]] First, watching animals, and second, reporting the results to other scientists.
 
 07:52 [[start:472120][end:477744]] Certainty about what animals are doing has different uses at each stage.
-[[start:477872][end:518310]] And this is really a beautiful and subtle point by distinguishing stages of the ethological encounter, the behavioral scientific encounter, whether we're talking about ants on the ground or people in the cities, separating out the observational moment and the uncertainties that are always at play there from this secondary communication about behavior at which point having really clear defined articulations of behavior becomes so important for scientific reproducibility, integrity, accessibility and so on.
-[[start:519240][end:535400]] Personally, I find that this paper anticipates a lot of the specifications that today we would consider part of the metabasian perspective, which is to say we're making inferences as cognitive systems about other cognitive systems.
+[[start:477872][end:518310]] And this is really a beautiful and subtle point. By distinguishing stages of the ethological encounter, the behavioral scientific encounter, whether we're talking about ants on the ground or people in the cities, separating out the observational moment and the uncertainties that are always at play there from this secondary communication about behavior, at which point having really clear defined articulations of behavior becomes so important for scientific reproducibility, integrity, accessibility and so on.
+[[start:519240][end:535400]] Personally, I find that this paper anticipates a lot of the specifications that today we would consider part of the meta-Bayesian perspective, which is to say we're making inferences as cognitive systems about other cognitive systems.
 
 08:56 [[start:536700][end:541720]] She wrote, My questions about ant watching do not arise when I'm watching ants.
-[[start:542060][end:546524]] Most of the time, I do not think much about certainty when ant watching.
+[[start:542060][end:546524]] Most of the time, I do not think much about certainty when ant-watching.
 
-09:06 [[start:546722][end:550540]] Replace that for the social human setting with people watching.
+09:06 [[start:546722][end:550540]] Replace that for the social human setting with people-watching.
 [[start:550690][end:553564]] Sometimes we're just watching people, and that's okay.
 [[start:553602][end:554830]] That's part of the moment.
-[[start:556260][end:559072]] I do not think much about certainty when ant watching.
+[[start:556260][end:559072]] "I do not think much about certainty when ant-watching.
 [[start:559206][end:560530]] I enact it.
 
 09:22 [[start:562500][end:571540]] The questions do not come from doubts about the certainty of my seeing, but from the ways that doubts about the certainty of seeing have shaped scientific practice.
 [[start:571960][end:579860]] The resolution of the problem would come from changes that would allow observers to talk about what they are actually doing when watching animals.
 [[start:580540][end:585000]] Truthful accounts of scientific animal watching don't yet exist.
-[[start:585580][end:590330]] This truth is not yet formed because we have not yet learned to talk about it.
-[[start:592220][end:595928]] What a wonderful expression and delightfully.
+[[start:585580][end:590330]] This truth is not yet formed because we have not yet learned to talk about it."
+[[start:592220][end:595928]] What a wonderful expression and delightfully:
 
-09:56 [[start:596024][end:600476]] I came to see the confused foragers as patrollers searching for new food.
+09:56 [[start:596024][end:600476]] "I came to see the confused foragers as patrollers searching for new food.
 
-10:00 [[start:600578][end:607632]] I saw the other foragers as already decided about their destination, not available to be distracted by a new source of food.
+10:00 [[start:600578][end:607632]] I saw the other foragers as already decided about their destination, not available to be distracted by a new source of food."
 [[start:607766][end:615810]] And so we have this really fascinating dialectic where in the moment we're observing in this predefinitional space.
 [[start:616260][end:622084]] Not questioning, though maybe we went to the field site to ask and answer a question, get data about a question.
 [[start:622202][end:635268]] But in the moment, we're in the flow of observation and not asking questions, though the uncertainty may be the highest afterwards when we're communicating to our scientific colleagues.
 
-10:35 [[start:635364][end:653384]] I defined an outgoing forager as a forager as a nest mate with no object in the mandibles and heading off in a straight line passing a demarcated .3 meters from the colony entrance, then people, well, why 3 meters?
+10:35 [[start:635364][end:653384]] I defined an outgoing forager as a forager as a nest-mate with no object in the mandibles and heading off in a straight line passing a demarcated point 3 meters from the colony entrance, then people, well, why 3 meters?
 [[start:653432][end:654360]] Why not 2 meters?
 [[start:654440][end:657280]] Or why can't it be carrying something on the way out?
 [[start:657430][end:662320]] Those questions arise in that precise space of communication.
 
-11:02 [[start:662740][end:670036]] And I wanted to open the lecture with this view because it puts a space between.
+11:02 [[start:662740][end:670036]] And I wanted to open the lecture with this view because it puts a space between
 
-11:10 [[start:670218][end:672870]] I see that person putting out a fire.
-[[start:674040][end:675860]] They're a firefighter.
+11:10 [[start:670218][end:672870]] "I see that person putting out a fire" and
+[[start:674040][end:675860]] "They're a firefighter."
 [[start:676680][end:681780]] In that space between is the interpretive moment and possibility.
 [[start:681940][end:689610]] And reimagining the social has so much to do with this process of, let's just say, ant watching.
 [[start:691500][end:695336]] Second view in this background and context section.
 
-11:35 [[start:695528][end:700936]] And here I wanted to draw from a wonderful presentation that JF.
+11:35 [[start:695528][end:700936]] And here I wanted to draw from a wonderful presentation that J.F.
 [[start:700968][end:725620]] Cloutier, a facilitator and participant at the Active Inference institute, presented as part of his robotics and embodied project, where, yes, he's building Lego robots that do symbolic Active Inference, but also opening up some great philosophical directions and ones that have a lot of implications for how we think about natural, artificial and synthetic intelligence.
 
-12:06 [[start:726200][end:739050]] This presentation was called All Intelligence is Collective Intelligence, and it was based upon the title and drawing upon a recent 2022 citation by Fallon Days et al.
-[[start:739420][end:754408]] And some of these maxims or expressions that JF provided, I thought were so provocative and also brought us back to that initial question, why collective behavior?
+12:06 [[start:726200][end:739050]] This presentation was called "All Intelligence is Collective Intelligence" and it was based upon the title and drawing upon a recent 2022 citation by Falandays et al.
+[[start:739420][end:754408]] And some of these maxims or expressions that JF provided, I thought were so provocative and also brought us back to that initial question: why collective behavior?
 [[start:754584][end:757276]] I mean, what system isn't a collective?
 
 12:37 [[start:757308][end:761760]] So why do we need the adjective if we're talking about behaving systems?
@@ -143,77 +143,77 @@
 
 12:47 [[start:767398][end:767952]] Okay.
 [[start:768086][end:769330]] Made up of what?
-[[start:770580][end:778896]] And so JF wrote some expressions, and you can see from the link and look a little more with some images and more of what he wrote.
+[[start:770580][end:778896]] And so J.F. wrote some expressions, and you can see from the link and look a little more with some images and more of what he wrote.
 [[start:779008][end:781492]] But a few of these, I thought, were just excellent.
-[[start:781636][end:787156]] Intelligence is a process enacted by interacting parts, not a property of individuals.
+[[start:781636][end:787156]] "Intelligence is a process enacted by interacting parts, not a property of individuals."
 
 13:07 [[start:787268][end:789450]] Again, whatever that would even mean.
-[[start:790220][end:791800]] Inaction is death.
-[[start:792400][end:796860]] Being by doing action without prediction is reckless.
+[[start:790220][end:791800]] "Inaction is death.
+[[start:792400][end:796860]] Being by doing. Action without prediction is reckless.
 [[start:797840][end:799950]] No prediction without sense making.
-[[start:800560][end:806130]] No sense made without a self versus the world or a self in the world.
+[[start:800560][end:806130]] No sense made without a self versus the world" or a self in the world.
 
-13:26 [[start:806580][end:809970]] A collective is differently intelligent than its members.
+13:26 [[start:806580][end:809970]] "A collective is differently intelligent than its members."
 [[start:810580][end:816770]] Maybe trivially different, maybe better in every way, maybe another direction in every way.
 
 13:38 [[start:818840][end:823328]] Why do individuals participate in collectives?
 [[start:823424][end:826740]] Why are people in groups?
 
-13:50 [[start:830220][end:847308]] Because sacrificing the autonomy to the collective provides benefit, survival, or even thrival benefits that's that I to we no making of sense without the self acting in or on the world.
+13:50 [[start:830220][end:847308]] Because sacrificing the autonomy to the collective provides benefit, survival, or even thrival benefits. that's that "I to we." "No making of sense without the self acting in or on the world.
 
 14:07 [[start:847394][end:850584]] It's not just some essence that's disembodied.
 [[start:850632][end:852670]] This is what embodiment is all about.
-[[start:853680][end:857440]] An autonomous agent is a self organizing collective of parts.
+[[start:853680][end:857440]] "An autonomous agent is a self organizing collective of parts.
 [[start:857860][end:861250]] Parts of a collective can themselves be autonomous agents.
 
 14:22 [[start:862020][end:865810]] Collectives form to improve the chance of survival of their members.
-[[start:866260][end:870580]] And an agent in a collective benefits from the intelligence of the collective.
-[[start:871080][end:882612]] So to me, this presentation and line of research pursued by JF and others absolutely puts a bow on the what is an individual, what is a collective?
+[[start:866260][end:870580]] And an agent in a collective benefits from the intelligence of the collective."
+[[start:871080][end:882612]] So to me, this presentation and line of research pursued by J.F. and others absolutely puts a bow on the "what is an individual, what is a collective?" 
 [[start:882756][end:893900]] Why do we even talk about, quote, individuals or quote collectives when we recognize the multiscale nature of complex adaptive systems.
 
 14:55 [[start:895920][end:902536]] Third Perspective a Symbiotic view of Life we have never been individuals.
-[[start:902568][end:911276]] This is a 2012 paper by Gilbert, SAP and Tower and just to read a few aspects of what they wrote in the abstract.
+[[start:902568][end:911276]] This is a 2012 paper by Gilbert, Sapp and Tauber and just to read a few aspects of what they wrote in the abstract:
 
-15:11 [[start:911388][end:918740]] The notion of the biological individual is crucial to studies of genetics, immunology, evolution, develop anatomy and physiology.
-[[start:919080][end:930650]] Each of these biological subdisciplines has a specific conception of individuality which has historically provided conceptual context for integrating newly acquired data.
+15:11 [[start:911388][end:918740]] "The notion of the 'biological individual' is crucial to studies of genetics, immunology, evolution, develop anatomy and physiology.
+[[start:919080][end:930650]] Each of these biological subdisciplines has a specific conception of individuality which has historically provided conceptual context for integrating newly acquired data."
 
-15:33 [[start:933260][end:949580]] Few descriptions animals cannot be considered individuals by anatomical or physiological criteria because a diversity of symbionts are both present and functional in completing metabolic pathways and serving other physiological functions.
+15:33 [[start:933260][end:949580]] A few descriptions. "Animals cannot be considered individuals by anatomical or physiological criteria because a diversity of symbionts are both present and functional in completing metabolic pathways and serving other physiological functions.
 [[start:950240][end:955340]] Similarly, these new studies have shown that animal development is incomplete without symbionts.
-[[start:956180][end:967056]] Symbionts also constitute a second mode of genetic inheritance providing selectable genetic variation for natural selection which connects it to the evolutionary concept of an individual.
-[[start:967238][end:972816]] So if we pursue the metabolic oh, it's all the metabolic networks and how they're all connected.
+[[start:956180][end:967056]] Symbionts also constitute a second mode of genetic inheritance providing selectable genetic variation for natural selection which connects it to the evolutionary concept of an individual."
+[[start:967238][end:972816]] So if we pursue the metabolic oh, it's all the metabolic networks and how they're all connected:
 
-16:12 [[start:972848][end:973636]] That's the individual.
+16:12 [[start:972848][end:973636]] that's the individual.
 
 16:13 [[start:973738][end:974036]] All right.
 [[start:974058][end:976480]] Well, that includes the microbiome and symbionts.
-[[start:976560][end:980496]] Well, no, it's the physiology and the decision making and the neurophysiology.
+[[start:976560][end:980496]] Well, no, it's the physiology and the decision-making and the neurophysiology.
 [[start:980608][end:982988]] Those are also in play with the symbionts.
 [[start:983104][end:987512]] Well, at least evolution only selects upon the germ line, right?
 
-16:27 [[start:987566][end:995976]] Well, no, actually there are these multiple mechanisms of inheritance whether they're relevant in a given situation or not is situational.
+16:27 [[start:987566][end:995976]] Well, no, actually there are these multiple mechanisms of inheritance; whether they're relevant in a given situation or not is situational.
 [[start:996088][end:1000860]] But in principle they exist and they're increasingly coming to be recognized.
-[[start:1001280][end:1010124]] Additionally for the immune system commonly described as quote, self versus non self or self identification or self other discrimination.
+[[start:1001280][end:1010124]] Additionally for the immune system commonly described as quote, self versus non self or self identification or self-other discrimination.
 [[start:1010252][end:1014140]] After all, we talk about autografting and allografting.
-[[start:1014300][end:1027360]] But of course there are aspects of quote, self or self under some definitions like an epitope from a protein in cartilage that an autoimmune disorder might target.
+[[start:1014300][end:1027360]] But of course there are aspects of "Self or "self under some definitions" like an epitope from a protein in cartilage that an autoimmune disorder might target.
 
-17:07 [[start:1027440][end:1038504]] So the immune system is mobilized against self under some definitions sometime and is not mobilized against other under some definitions sometimes.
+17:07 [[start:1027440][end:1038504]] So the immune system is mobilized against self under some definitions sometime and is not mobilized against others under some definitions sometimes.
 
-17:18 [[start:1038702][end:1044904]] Like we're not constantly mounting a massive immune response to our gut microbiome.
-[[start:1044952][end:1070420]] Our skin microbiome, recognizing the holobiont, the multicellular Eukaryote, plus its colonies of persistent symbionts as a critically important unit of anatomy, development, physiology, immunology and evolution and cognition, opens up a new investigative avenue and conceptually challenges the ways in which the biological subdisciplines have heretofore characterized living entities.
-[[start:1070760][end:1074336]] Here we have the COVID of the famous work Leviathan.
+17:18 [[start:1038702][end:1044904]] Like we're not constantly mounting a massive immune response to our gut microbiome.,
+[[start:1044952][end:1070420]] or skin microbiome. "Recognizing the 'holobiont,' the multicellular eukaryote, plus its colonies of persistent symbionts as a critically important unit of anatomy, development, physiology, immunology and evolution and cognition, opens up a new investigative avenue and conceptually challenges the ways in which the biological subdisciplines have heretofore characterized living entities."
+[[start:1070760][end:1074336]] Here we have the cover of the famous work Leviathan.
 [[start:1074448][end:1079812]] It's a large person constituted of other people really making the point clear.
 
 17:59 [[start:1079866][end:1087240]] But if we zoomed in on, quote, an individual person wouldn't we find something like societies of cells?
 [[start:1088300][end:1089530]] What is an individual?
 [[start:1090220][end:1091784]] When is an individual?
 [[start:1091982][end:1095470]] What and what's on the line?
-[[start:1096880][end:1099420]] I thought those are such big questions.
+[[start:1096880][end:1099420]] I thought those are such big questions,
 
-18:19 [[start:1099570][end:1112530]] Maybe could we connect it to a little bit of more of a bibliographic piece of data just to show a snapshot and to open up this discussion to you all about what's on the line with what's an individual.
+18:19 [[start:1099570][end:1112530]] maybe could we connect it to a little bit of more of a bibliographic piece of data just to show a snapshot and to open up this discussion to you all about what's on the line with what's an individual.
 [[start:1113220][end:1122420]] And so what I did is I searched for some literature trends on PubMed and here is the results per 100,000 citations for collective behavior.
 [[start:1122760][end:1135224]] And so we see collective behavior first being mentioned in the 1950s, at least in this literature database, and rising up on through around 500 or 400 or 500 per hundred thousand.
-[[start:1135342][end:1138056]] So 1000 out of 100,000 would be 1%.
-[[start:1138238][end:1149692]] So half of a percent of all the citations on a major biolytic literature database had collective behavior in them.
+[[start:1135342][end:1138056]] So 1000 out of 100,000 would be 1%. 
+[[start:1138238][end:1149692]] So half of a percent of all the citations on a major bioliterature database had collective behavior in them.
 
 19:09 [[start:1149746][end:1153084]] So that's a huge amount of work, and it looks like it goes down.
 [[start:1153202][end:1159010]] But when you actually look at how many citations there are, it's been about 4000 publications per year.
@@ -224,7 +224,7 @@
 
 19:34 [[start:1174186][end:1176100]] Well, how are we doing compared to behavior?
 [[start:1176600][end:1180224]] Now, collective behavior is this lower line in red.
-[[start:1180362][end:1189000]] And yeah, there's a Blip, but behavior is up between 15 and 20% of citations in PubMed.
+[[start:1180362][end:1189000]] And yeah, there's a blip, but behavior is up between 15 and 20% of citations in PubMed.
 [[start:1189340][end:1200380]] Now, maybe behavior is also referring to the behavior of a given material that may or may not be a superconductor or might be using different understandings of behavior.
 [[start:1202000][end:1209280]] But what can we say and what can we know about the difference between individual and collective behavior?
 
@@ -236,60 +236,65 @@
 [[start:1229354][end:1230640]] It's too early to say.
 
 20:30 [[start:1230730][end:1250152]] We can't do technical analysis just like that, but very provocative and gives us some ways to look at the broader scale or collective scientific cognitive process associated with these incredibly important philosophical and biological questions about individuality.
-[[start:1250216][end:1257584]] Because, of course, to distinguish collective behavior from individual behavior, or why would you even need an adjective at all?
-[[start:1257702][end:1262290]] It's going to come down to what is an individual and what's on the line so much.
-[[start:1263060][end:1271596]] And the last view here, drawing upon the work morphology of collective intelligence network, swarm, multitude, or assemblage?
-[[start:1271708][end:1283524]] And Tony Devorrow and Alejandro Lopez Gabrielis wrote, network, swarm and multitude are some of the different metaphors that have been used to understand the concept of collective intelligence.
+[[start:1250216][end:1257584]] Because, of course, to distinguish collective behavior from individual behavior - else why would you even need an adjective at all? -
+[[start:1257702][end:1262290]] it's going to come down to what is an individual and what's on the line so much?
+[[start:1263060][end:1271596]] And the last view here, drawing upon the work "Morphology of collective intelligence network, swarm, multitude, or assemblage?"
+[[start:1271708][end:1283524]] And Tony Navarro and Alejandro Lopez Gabrielidis wrote, "Network, swarm and multitude are some of the different metaphors that have been used to understand the concept of collective intelligence.
 
 21:23 [[start:1283652][end:1287320]] All of them have reflected our relationship with the Internet and its development.
-[[start:1288460][end:1302620]] With the advent of artificial intelligence AI, we wonder about other metaphors that might offer a new understanding of collective intelligence to address today's environmental and sociotechnical challenges.
+[[start:1288460][end:1302620]] With the advent of artificial intelligence AI, we wonder about other metaphors that might offer a new understanding of collective intelligence to address today's environmental and sociotechnical challenges."
 
-21:43 [[start:1303840][end:1310716]] They bring up network, swarm and multitude to advocate for the fourth option assemblage.
-[[start:1310908][end:1331270]] Understanding collective intelligence as an assemblage allows for the inclusion of different human and technological agents and overcomes the anthropocentrism human centrism human exclusionism of other models based on human will, whether extended as in the multitude or suppressed as in the swarm connotations here.
-[[start:1331820][end:1339956]] In this way, ethical decision making and responsibility are distributed among different cognitive actors with the capacity to choose and interpret.
+21:43 [[start:1303840][end:1310716]] They bring up network, swarm and multitude to advocate for the fourth option, assemblage.
+[[start:1310908][end:1331270]] "Understanding collective intelligence as an assemblage allows for the inclusion of different human and technological agents and overcomes the anthropocentrism human centrism human exclusionism of other models based on human will, whether extended (as in the multitude) or suppressed (as in the swarm)." Connotations here.
+[[start:1331820][end:1339956]] "In this way, ethical decision making and responsibility are distributed among different cognitive actors with the capacity to choose and interpret.
 
-22:20 [[start:1340148][end:1345080]] And to the extent that they make decisions, albeit algorithmic ones, they are also accountable.
-[[start:1345240][end:1355788]] And I love this, and I think it foreshadows where we're going to be going with Active Inference, which is different cognitive actors have the capacity to choose and interpret.
+22:20 [[start:1340148][end:1345080]] And to the extent that they make decisions, albeit algorithmic ones, they are also accountable."
+[[start:1345240][end:1355788]] And I love this, and I think it foreshadows where we're going to be going with Active Inference, which is: different cognitive actors have the capacity to choose and interpret.
 [[start:1355884][end:1360576]] We might connect that to sensory and internal states of an Active Inference agent.
-[[start:1360678][end:1380756]] But perception, sense making, signal processing inbound information and decision making and responsibility and accountability and the accountability that we associate with human sociotechnical systems, that's the action selection, control theory, outgoing dependencies in the Markov blanket.
+[[start:1360678][end:1380756]] But perception, sense-making, signal-processing inbound information and decisio- making and responsibility and accountability and the accountability that we associate with human sociotechnical systems, that's the action selection, control theory, outgoing dependencies in the Markov blanket.
 
-23:00 [[start:1380868][end:1408240]] So right there, coming from outside of Active Inference, we see the identification of the need to have flexible frameworks, including linguistic and metaphorical, that allow us to talk about heterogeneous diverse cyberphysical systems where different entities are engaged in different practices and ways of incoming sense making and outgoing decision making.
+23:00 [[start:1380868][end:1408240]] So right there, coming from outside of Active Inference, we see the identification of the need to have flexible frameworks, including linguistic and metaphorical, that allow us to talk about heterogeneous, diverse, cyberphysical systems where different entities are engaged in different practices and ways of incoming sense-making and outgoing decision-making.
 
 23:28 [[start:1408390][end:1419076]] And it's going to turn out that Active Inference is an incredible and flexible expressive framework that's going to allow us to talk about those kinds of systems pointed to here.
-[[start:1419258][end:1420496]] And it really matters.
-[[start:1420528][end:1429472]] They point to some of the most important aspects of issues today on to Active Inference, insights and fundamentals.
+[[start:1419258][end:1420496]] And it really matters,
+[[start:1420528][end:1429472]] they point to some of the most important aspects of issues today on to Active Inference, insights and fundamentals.
 [[start:1429536][end:1435608]] Well, here, as in all the other areas, there were so many pieces of literature that could have been drawn on.
 [[start:1435774][end:1439480]] That's why I restricted myself to just four views.
 
 24:01 [[start:1441580][end:1444972]] Also, this section is going to mark the midway point.
 [[start:1445026][end:1458360]] We're not there yet, don't worry, but the midway point of the lecture where we move from the six declarative expressions onto the questions because it's more open than not and there's more space for you to respond than you may imagine.
-[[start:1458520][end:1461008]] But the view is going to be here.
-[[start:1461174][end:1463808]] And what are the literature that support that point?
-[[start:1463974][end:1474608]] So, first, Active Inference in the free energy principle, which is a principle that provides a lot of theoretical grounding and physics based perspective on Active Inference.
+[[start:1458520][end:1461008]] But what are the views that are going to be here?
+[[start:1461174][end:1463808]] And what is the literature that supports that point?
+[[start:1463974][end:1474608]] So, first, Active Inference in the free energy principle, which is a principle that provides a lot of theoretical grounding and physics-based perspective on Active Inference.
 
 24:34 [[start:1474624][end:1476550]] But we're not going to go too much into it today.
-[[start:1476920][end:1488264]] Active inference and the free energy principle are scale free formalisms for cognitive systems with collectives, as with individuals, the general framing in itself does very little.
+[[start:1476920][end:1488264]] Active inference and the free energy principle are scale-free formalisms for cognitive systems. With collectives, as with individuals, the general framing in itself does very little.
 [[start:1488462][end:1495336]] However, with properly constructed generative models, we can get explanation, prediction, design, influence, and implementation tools.
-[[start:1495448][end:1508460]] And here I'm going to draw on two pieces of work epistemic Communities under Active Inference by Mahault and colleagues in 2022 and just from several days ago, the work by Connor Hines and colleagues.
+[[start:1495448][end:1508460]] And here I'm going to draw on two pieces of work Epistemic Communities under Active Inference by Mahault and colleagues in 2022 and just from several days ago, the work by Conor Heins and colleagues,
 
 25:08 [[start:1508540][end:1510720]] Collective behavior from surprise minimization.
 
 25:12 [[start:1512020][end:1514290]] We'll unpack the point more when we get there.
-[[start:1514660][end:1531796]] Second, collectives can be understood as consisting of action perception loops which subsume, entail, or supervene upon individual level action perception loops, niche modification, stigma, g can also be modeled this way.
-[[start:1531978][end:1539448]] We'll draw upon the paper Active Inference, an Active Inference framework for ant colony behavior by myself and colleagues in 2021.
+[[start:1514660][end:1531796]] Second, "Collectives can be understood as consisting of action-perception loops which subsume, entail, or supervene upon individual level action-perception loops, niche modification (stigmergy) can also be modeled this way."
+[[start:1531978][end:1539448]] We'll draw upon the paper Active Inferants, an Active Inference framework for ant colony behavior by myself and colleagues in 2021.
 [[start:1539454][end:1544200]] And then we'll move into the questions and things will start to open up.
 [[start:1544270][end:1546244]] So if it feels like we've been climbing uphill.
 
-25:46 [[start:1546292][end:1548392]] We're two thirds of the way with the uphill climb.
-[[start:1548456][end:1550120]] Feels like we've been going downhill.
-[[start:1550280][end:1560588]] We're two thirds of the way with a downhill how do the concepts of generalized synchrony and homeostasis, which are so core to Active Inference, relate to collective behavior?
+25:46 [[start:1546292][end:1548392]] we're two-thirds of the way with the uphill climb.
+[[start:1548456][end:1550120]] Feels like we've been going downhill?
+[[start:1550280][end:1560588]] We're two-thirds of the way with a downhill how do the concepts of generalized synchrony and homeostasis, which are so core to Active Inference, relate to collective behavior?
 [[start:1560764][end:1564176]] Here we'll discuss the work by Ralph Kaufman et al.
-[[start:1564198][end:1568000]] From 2021, an Active Inference model of collective intelligence.
+[[start:1564198][end:1568000]] from 2021, An Active Inference model of collective intelligence.
 
-26:08 [[start:1568420][end:1580572]] And lastly, in this section, how can Active Inference be used to explore the balance between individual and collective behaviors and the bi directional influence of collectives on individuals, and, of course, vice versa?
+26:08 [[start:1568420][end:1580572]] And lastly, in this section: How can Active Inference be used to explore the balance between individual and collective behaviors,
+and the bi-directional influence of collectives on individuals", and, of course, vice versa.
 
-26:20 [[start:1580736][end:1591400]] Here we'll draw upon the computational boundary of a self developmental bioelectricity drives, multicellularity and scale free cognition by Mike Levin in 2019.
-[[start:1591820][end:1596060]] So let's get right into the work by Mahault and Connor and colleagues.
+26:20 [[start:1580736][end:1591400]] Here we'll draw upon the computational boundary of a "self." 
+
+
+
+2Developmental bioelectricity drives, multicellularity and scale-free cognition by Mike Levin in 2019.
+[[start:1591820][end:1596060]] So let's get right into the work by Mahault and and Conor and colleagues.
 [[start:1597520][end:1600396]] First, I'm just going to bring this paper up.
 [[start:1600498][end:1608528]] However, first you can watch more about it in Guest stream 17.1 from March 2022.
 
@@ -302,15 +307,15 @@
 27:11 [[start:1631952][end:1633704]] But then what do we do when we're there?
 [[start:1633822][end:1642170]] And what we do when we're there is we develop generative models that actually take us towards where we want to be.
 
-27:23 [[start:1643600][end:1649016]] Again, framing a situation as being related to Active Inference.
-[[start:1649048][end:1655310]] Or you could do an Active Inference model of that does very, very little work by itself.
-[[start:1655620][end:1666032]] However, making generative models of situations, even if they're speculative generative models or qualitative or hypothetical, that can start getting towards doing work.
+27:23 [[start:1643600][end:1649016]] Again, framing a situation as being related to Active Inference -
+[[start:1649048][end:1655310]] or you could do an Active Inference model of that - does very, very little work by itself.
+[[start:1655620][end:1666032]] However, making generative models of situations, even if they're speculative generative models or qualitative or hypothetical, that can start getting towards doing work. 
 
 27:46 [[start:1666086][end:1670320]] But if someone said, well, that health condition, you could do a linear regression.
 [[start:1670820][end:1673028]] Okay, but which treatment do we do?
 [[start:1673114][end:1674992]] Well, it could be done with a linear regression.
 [[start:1675056][end:1678388]] We could use a linear regression to figure out what method to use.
-[[start:1678474][end:1682612]] Okay, but more or less hotter room or colder room.
+[[start:1678474][end:1682612]] Okay, but more or less, hotter room or colder room?
 
 28:02 [[start:1682666][end:1684436]] Well, just use a linear regression.
 [[start:1684628][end:1688100]] So that's the conversation that we're having a lot with Active Inference.
@@ -319,12 +324,12 @@
 [[start:1698242][end:1704828]] And again, the framework itself is general to the point of doing little work, and we love it that way.
 
 28:24 [[start:1704994][end:1710828]] It enables us to move into systems of interest and deploy generative models.
-[[start:1710924][end:1723200]] So what they did in this paper was leverage the Active Inference framework to provide an in silicon model on the computer chip model of confirmation bias and its effect on echo chamber formation.
-[[start:1723360][end:1732280]] They had a system of interest people's social engagement on so called social media, and they had even a phenomena of interest which was echo chamber formation.
-[[start:1733020][end:1742040]] They built a model based on Active Inference where agents tend to sample information in order to justify their own view of reality, something we call self evidencing.
+[[start:1710924][end:1723200]] So what they did in this paper was leverage the Active Inference framework to provide an in silica model - on the computer chip model - of confirmation bias and its effect on echo chamber formation.
+[[start:1723360][end:1732280]] They had a system of interest, people's social engagement on so called social media, and they had even a phenomena of interest which was echo chamber formation.
+[[start:1733020][end:1742040]] They built a model based on Active Inference where agents tend to sample information in order to justify their own view of reality, something we call self-evidencing.
 [[start:1742380][end:1749820]] We show that once agents have reached a certain level of certainty about their beliefs, it becomes very difficult to get them to change their views.
 
-29:10 [[start:1750400][end:1763970]] The system of self confirming beliefs is upheld and reinforced by the evolving relationship between an agent's beliefs and observations, which will, over time, will continue to provide evidence for their ingrained ideas about the world.
+29:10 [[start:1750400][end:1763970]] The system of self-confirming beliefs is upheld and reinforced by the evolving relationship between an agent's beliefs and observations, which will, over time, will continue to provide evidence for their ingrained ideas about the world.
 [[start:1764340][end:1771520]] Well, where I'm from, we drive on the right side of the road and so you drive on the right side of the road, I drive on the right side of the road.
 
 29:31 [[start:1771590][end:1772852]] We're not going to have an issue.
@@ -333,42 +338,42 @@
 
 29:38 [[start:1778810][end:1780048]] We're bounding surprise.
 [[start:1780144][end:1781344]] We're doing Active Inference.
-[[start:1781392][end:1791880]] Surprising minimization goals, reward never need to come into play to give an account of how those systems could arise and be stabilized.
+[[start:1781392][end:1791880]] Surprisal minimization goals, reward never need to come into play to give an account of how those systems could arise and be stabilized.
 [[start:1792880][end:1803000]] These epistemic communities are consolidated by those shared beliefs and in turn tend to produce perceptions of reality that reinforce those shared beliefs.
-[[start:1803160][end:1814050]] And on the top right is just a little teaser of what a Bayesian graphical model looks like of the kind that they deployed in this paper.
+[[start:1803160][end:1814050]] And on the top right is just a little teaser of what a Bayesian graphical model looks like of the kind that they deployed in this  .
 
-30:16 [[start:1816980][end:1845560]] And here we see some of the results from their parameter sweeping, exploring different combinations of parameters and looking at topics like polarization index and reattenance rate and so all kinds of statistics that can be drawn upon, connected to the generative model and also all kinds of opportunities and interfaces to relate this to empirical data as well as suggest experiments.
+30:16 [[start:1816980][end:1845560]] And here we see some of the results from their parameter sweeping, exploring different combinations of parameters and looking at topics like polarization index and reattenance rate, and so all kinds of statistics that can be drawn upon, connected to the generative model, and also all kinds of opportunities and interfaces to relate this to empirical data as well as to suggest experiments.
 
 30:45 [[start:1845640][end:1848604]] So Mahault is going to talk more about this and it's awesome work.
-[[start:1848722][end:1868656]] And then late breaking news only several days ago, five or so days ago, an amazing new pre [unk]print was put up by Connor Hines and colleagues and it was just too cool not to include here and reflects the very rapid pace of collaborative development in the Active Inference ecosystem.
-[[start:1868768][end:1872260]] And this is their work collective behavior from surprise minimization.
+[[start:1848722][end:1868656]] And then late breaking news: only several days ago, five or so days ago, an amazing new preprint was put up by Connor Heins and colleagues and it was just too cool not to include here and reflects the very rapid pace of collaborative development in the Active Inference ecosystem.
+[[start:1868768][end:1872260]] And this is their work "Collective behavior from surprise minimization."
 [[start:1872760][end:1877510]] And they made every point I wanted to make here and now.
 
 31:18 [[start:1878360][end:1881080]] Collective motion is ubiquitous in nature.
-[[start:1881660][end:1889496]] Typically, such macroscopic patterns arise from decentralized local interactions among constituent components e.
-[[start:1889518][end:1893630]] G, individual fish in a school there's that word individual again.
-[[start:1894560][end:1907040]] Preeminent models of this process describe individuals as self propelled particles, subject to self generated motion and social forces such as short range repulsion and long range attraction or alignment.
+[[start:1881660][end:1889496]] Typically, such macroscopic patterns arise from decentralized local interactions among constituent components e.g.
+[[start:1889518][end:1893630]] individual fish in a school. There's that word individual again.
+[[start:1894560][end:1907040]] Preeminent models of this process describe individuals as self propelled particles, subject to self-generated motion and social forces such as short-range repulsion and long-range attraction or alignment.
 
 31:48 [[start:1908660][end:1911628]] However, organisms are not particles.
 
-31:51 [[start:1911804][end:1914320]] They are probabilistic decision makers.
+31:51 [[start:1911804][end:1914320]] They are probabilistic decision-makers.
 [[start:1914820][end:1916640]] They're cognitive particles.
 [[start:1917400][end:1921616]] We introduce an approach to modeling collective behavior based on Active Inference.
-[[start:1921808][end:1928980]] This cognitive framework casts behavior as the consequence of a single imperative to minimize surprise.
-[[start:1929480][end:1939284]] Again, if you want to, you can contrast that with reward learning, where the imperative is to maximize reward in Active Inference and the free energy principle.
+[[start:1921808][end:1928980]] This cognitive framework casts behavior as the consequence of a single imperative: to minimize surprise.
+[[start:1929480][end:1939284]] Again, if you want to, you can contrast that with reward-learning, where the imperative is to maximize reward. In Active Inference and the free energy principle.
 
-32:19 [[start:1939412][end:1948220]] We're taking a path of least action not the laziest path or the most passive one, but a little bit more technically a path of least action.
+32:19 [[start:1939412][end:1948220]] we're taking a path of least action, not the laziest path or the most passive one, but a little bit more technically a path of least action.
 [[start:1949280][end:1950888]] And we're minimizing surprise.
 [[start:1950984][end:1958060]] We're bounding surprise with variational free energy and it turns out that that helps us minimize surprise and maximize model evidence.
-[[start:1958140][end:1962204]] And it can include things like novelty and curiosity seeking very naturally.
+[[start:1958140][end:1962204]] And it can include things like novelty and curiosity-seeking very naturally.
 [[start:1962252][end:1966450]] So this doesn't mean we're squeezing the juice out of life at all.
 
-32:47 [[start:1967480][end:1984330]] We demonstrate that many empirically observed collective phenomena including cohesion milling and directed motion emerge naturally when considering behavior as driven by active Bayesian inference without explicitly building behavioral rules or goals into individual agents.
+32:47 [[start:1967480][end:1984330]] We demonstrate that many empirically observed collective phenomena including cohesion, milling and directed motion emerge naturally when considering behavior as driven by active Bayesian inference without explicitly building behavioral rules or goals into individual agents.
 
 33:05 [[start:1985180][end:1990916]] No reward, no goal, no master of the collective.
 [[start:1991108][end:2002140]] Furthermore, we show that Active Inference can recover and generalize the classical notion of social forces as agents attempt to suppress prediction errors that conflict with their expectations.
-[[start:2002480][end:2014304]] By exploring the parameter space of the beliefbased model we reveal nontrivial relationships between the individual beliefs and group properties like polarization and the tendency to visit different collective states.
-[[start:2014502][end:2024820]] We also explore how individual beliefs about uncertainty, metacognition beliefs about beliefs determine collective decision making accuracy.
+[[start:2002480][end:2014304]] By exploring the parameter space of the belief- based model we reveal nontrivial relationships between the individual beliefs and group properties like polarization and the tendency to visit different collective states.
+[[start:2014502][end:2024820]] We also explore how individual beliefs about uncertainty, metacognition - beliefs about beliefs - determine collective decision making accuracy.
 
 33:45 [[start:2025480][end:2032500]] What if when you voted or shared your perspective on what we were going to have for dinner you also conveyed an uncertainty estimate?
 [[start:2032580][end:2035530]] How confident are you about that being the case?
@@ -376,45 +381,45 @@
 33:57 [[start:2037980][end:2048296]] Finally, we show how agents can update their generative model over time resulting in groups that are collectively more sensitive to external fluctuations and encode information more robustly.
 
 34:08 [[start:2048488][end:2055124]] From a distributed systems perspective you could imagine two different kinds of distributed systems or networks.
-[[start:2055272][end:2058624]] One of them has a dampening like quality.
+[[start:2055272][end:2058624]] One of them has a dampening-like quality.
 [[start:2058822][end:2064880]] So something that enters on one side dampens as it diffuses.
 [[start:2065300][end:2072336]] We can also contrast that with another kind of distributed system or another kind of input or stimulus or context that amplifies.
 
-34:32 [[start:2072528][end:2088216]] And the goal or one nice property to have of systems would be like we want to dampen what we don't want to pay attention to and up signal or increase the cascading availability of what we do want to attend to.
+34:32 [[start:2072528][end:2088216]] And the goal or one nice property to have of systems would be like we want to dampen what we don't want to pay attention to and up-signal or increase the cascading availability of what we do want to attend to.
 [[start:2088318][end:2092040]] Now that's a little circular since in some ways that's the definition of attention.
 [[start:2092400][end:2109100]] However, making unified models like they do here gives us integrated approaches to explore a broad range of collective phenomena here in spatial movement but also involving the cognitive states of the particles.
 
 35:09 [[start:2109260][end:2113760]] And they make a really nice representation here to connect to other approaches.
-[[start:2114260][end:2118956]] A traditional approach to classical self propelled particles is agent environment.
+[[start:2114260][end:2118956]] A traditional approach to classical self-propelled particles is agent environment.
 
 35:19 [[start:2119068][end:2125060]] Agents take rules and they make decisions based upon those rules that are either given or learnt.
 [[start:2126280][end:2131208]] When you're this close to the bird next to you, do that and when you're this close, do this.
-[[start:2131374][end:2141044]] And then social forces are these kind of as if or actual constraints that then modify the agent's perspective.
-[[start:2141172][end:2149420]] And what we see in the Active Inference setting is that the agent and the environment are mediated by an interface.
-[[start:2149920][end:2151368]] The Markov blanket.
+[[start:2131374][end:2141044]] And then social forces are these kind of "as if" or actual constraints that then modify the agent's perspective.
+[[start:2141172][end:2149420]] And what we see in the Active Inference setting is that the agent and the environment are mediated by an interface;
+[[start:2149920][end:2151368]] the Markov blanket.
 
-35:51 [[start:2151464][end:2151884]] This is.
-[[start:2151922][end:2153192]] The sensorium.
+35:51 [[start:2151464][end:2151884]] This is
+[[start:2151922][end:2153192]] the sensorium.
 [[start:2153336][end:2158960]] This is on the inbound side perception and on the outbound side action.
 [[start:2159940][end:2161436]] And they give some more details.
 [[start:2161468][end:2173190]] It's a really exciting paper and it's just cool to see again that even in the preparatory days of a lecture like this, there's always new collective activity in the ecosystem and that's what makes it fun.
 
 36:17 [[start:2177080][end:2181000]] Last of the declarative sections of this lecture.
-[[start:2181420][end:2196568]] Colonies here, but more generally collectives, can be understood as consisting of action perception loops which subsume, entail or supervene upon individual level action perception loops, niche modifications or stigma.
-[[start:2196584][end:2199470]] G can also be modeled this way.
+[[start:2181420][end:2196568]] Colonies here, but more generally collectives, can be understood as consisting of action-perception loops which subsume, entail or supervene upon individual level action-perception loops, niche modifications or stigmergy
+[[start:2196584][end:2199470]] can also be modeled this way.
 [[start:2200400][end:2207824]] What we did in this paper was bring something new to Active Inference in at least two different ways.
 [[start:2208022][end:2213904]] First, it was the first model of an ant system of interest.
 
 36:54 [[start:2214022][end:2220580]] Now, for some of us mere mycologists in the audience, all of our broader entomology colleagues, that may be enough.
-[[start:2220730][end:2231532]] But what was also really interesting about this work and the opportunity to collaborate on it, was it was the first Active Inference model presented with explicit stigmaji.
-[[start:2231616][end:2247020]] Not just the philosophical consideration of the traces that agents leaving in the environment might then have them change their behavior in the future, but explicitly engaging with this process of multiagent stigmurgic behavior.
+[[start:2220730][end:2231532]] But what was also really interesting about this work and the opportunity to collaborate on it, was it was the first Active Inference model presented with explicit stigmergy.
+[[start:2231616][end:2247020]] Not just the philosophical consideration of the traces that agents leaving in the environment might then have them change their behavior in the future, but explicitly engaging with this process of multiagent stigmergic behavior.
 
 37:28 [[start:2248880][end:2253992]] Active inference may be informative in the study of ant colonies at three distinct temporal scales.
-[[start:2254136][end:2265036]] Nest mate behavior, which is to say emergent among tissues of a nest mate, you could keep on going collectively down and interactions with the biotic or abiotic environment.
+[[start:2254136][end:2265036]] Nest-mate behavior, which is to say emergent among tissues of a nest-mate - you could keep on going collectively down - and interactions with the biotic or abiotic environment.
 
-37:45 [[start:2265148][end:2279328]] So, first level at the level of a nest mate, one of those things with six legs that looks like an insect, at the level of the colony, colony development is emergent among nest mates and their interactions with the niche.
+37:45 [[start:2265148][end:2279328]] So, first level at the level of a nest mate, one of those things with six legs that looks like an insect, at the level of the colony, colony development is emergent among nest-mates and their interactions with the niche.
 [[start:2279504][end:2283360]] That is where many people would traditionally assign collective behavior.
-[[start:2283440][end:2289396]] They say, well, one nest mate walking around is individual behavior, that's the individual ants.
+[[start:2283440][end:2289396]] They say, well, one nest-mate walking around is individual behavior, that's the individual ants.
 [[start:2289508][end:2293240]] And then the colony is where collective behavior comes into play, right?
 [[start:2293310][end:2296284]] And we're going to see that reified very soon.
 
@@ -422,30 +427,29 @@
 [[start:2303760][end:2316400]] In this work, we focused on the connection between the first two levels of analysis, focusing on the case of stigmergic colony foraging using a modification of previous Active Inference computational implementations.
 
 38:37 [[start:2317060][end:2322084]] We didn't use the word individual and there's a reason why.
-[[start:2322282][end:2338964]] Because we're saying what we mean more clearly when talking about ants, when we talk about nest mates, colonies and populations of colonies that sidesteps or transcends the discussion of what is an individual and what is a collective.
-[[start:2339012][end:2347464]] Because with respect to the colony as an individual, if you want to use that word, the population is a collective with respect to the nest mate, the colony is a collective.
+[[start:2322282][end:2338964]] Because, we're saying what we mean more clearly when talking about ants, when we talk about nest-mates, colonies and populations of colonies that sidesteps or transcends the discussion of what is an individual and what is a collective.
+[[start:2339012][end:2347464]] Because with respect to the colony as an individual, if you want to use that word, the population is a collective with respect to the nest-mate, the colony is a collective.
 
 39:07 [[start:2347592][end:2354184]] With respect to the tissue like the brain or the mid gut, the nest mate is a collective.
 [[start:2354312][end:2357264]] So we don't need to play the adjective game.
 [[start:2357382][end:2364400]] We can just articulate what we're interested in about these systems of interest and complex adaptive system phenomena.
-[[start:2364900][end:2376900]] And so what we did was we explored a kind of classical behavioral setting which is food being placed between the arms of a teammates and in this case, rather than a rat.
-
-39:39 [[start:2379400][end:2388010]] I'm just pausing for a second while I believe that my internet is reconnecting and we should be back.
-[[start:2389820][end:2397352]] Each ant was described by an action perception loop, an Active Inference action perception loop.
+[[start:2364900][end:2376900]] And so what we did was we explored a kind of classical behavioral setting which is food being placed between the arms of a teammate and in this case, rather than a rat,
+39:39 [[start:2379400][end:2388010]]
+[[start:2389820][end:2397352]] each ant was described by an action-perception loop, an Active Inference action-perception loop.
 [[start:2397496][end:2405496]] And they were able to move within a three by three grid as well as perceive pheromone density within a three by three grid.
-[[start:2405608][end:2413484]] And then they laid down pheromone, they added stigmaergic trace on the way home if they had found a seed.
+[[start:2405608][end:2413484]] And then they laid down pheromone, they added stigmergic trace on the way home if they had found a seed.
 [[start:2413612][end:2419716]] And so this does a few interesting things and livestream 29 is where we unpack this a lot more.
 
 40:19 [[start:2419738][end:2422036]] But I just wanted to make two more points here.
-[[start:2422138][end:2434132]] The first is that in a reward centric perspective on ant behavior, the pheromone is seen as a semiotic queue and the seed or the food is seen as the reward.
+[[start:2422138][end:2434132]] The first is that in a reward-centric perspective on ant behavior, the pheromone is seen as a semiotic queue and the seed or the food is seen as the reward.
 [[start:2434276][end:2439432]] And so then we got to use the cues, we got to use the pheromone density to figure out where the good stuff is.
 
 40:39 [[start:2439486][end:2441080]] That's that paradigm.
 [[start:2441820][end:2444264]] We flipped that with Active Inference.
-
-40:44 [[start:2444392][end:2458000]] Now, the preference we don't need to say reward, but the preference, that which is sought after proximally but teleologically, that which is sought after preferred over is the pheromone.
+40:44 [[start:2444392][end:2458000]] Now, the preference - we don't need to say reward, but the preference - that which is sought after proximally but teleologically, that which is sought after or preferred is the pheromone.
 [[start:2458900][end:2466208]] The seed becomes the semiotic cue that it's time to turn on your pheromone depositing and come home.
-[[start:2466374][end:2484410]] And so that flips our approach to understanding what foraging is about from we're lost in the sauce, trying to figure out where the good thing is out there to we're surfing the 100 foot wave and we'll know it when we see it, and then we'll turn around.
+[[start:2466374][end:2484410]] And so that flips our approach to understanding what foraging is about from "we're lost in the sauce," trying to figure out where the good thing is out there to 
+"we're surfing the 100 foot wave" and we'll know it when we see it, and then we'll turn around.
 [[start:2485260][end:2486436]] Very different perspective.
 [[start:2486468][end:2495660]] And then one other point that I had to make for the context was that we used a modification of a previous Active Inference computational implementation.
 
@@ -457,74 +461,74 @@
 [[start:2537444][end:2548860]] So maybe one culture or one subculture likes the checkerboard pattern and another one likes vertical lines, another one likes horizontal lines or these other kinds of repetitive structures.
 
 42:30 [[start:2550320][end:2559680]] What's so interesting is that the eye, when it is foraging, does not leave a trace, though it can feel like it, doesn't it?
-[[start:2559830][end:2566450]] But the eye forges around in order to get the bigger picture based on local information.
+[[start:2559830][end:2566450]] But the eye forages around in order to get the bigger picture based on local information.
 
-42:47 [[start:2567380][end:2572340]] What we did is we said, well, instead of imagining that as the gaze location of an eye.
-[[start:2572680][end:2579056]] Let's imagine that as the skin in the game exoskeleton on the ground of a forager.
+42:47 [[start:2567380][end:2572340]] What we did is we said, well, instead of imagining that as the gaze location of an eye,
+[[start:2572680][end:2579056]] let's imagine that as the skin in the game, exoskeleton on the ground, of a forager.
 [[start:2579248][end:2596508]] So let's think about that movement as something that an embodied forager does with its real body and then conditional in this setting upon it touching the seed or the food, it can lay down a pheromone trail, which the eyes can't do per se.
 
 43:16 [[start:2596674][end:2604056]] And so just really interesting because it's not like this was an ant paper and now we're going to try to cram it into social sciences.
-[[start:2604168][end:2613250]] It's actually like computational work in the social sciences was able to translate to Mirmacology into ants research.
-[[start:2613780][end:2620150]] And so it's a very fruitful and bi directional relationship between studying ants and studying people.
+[[start:2604168][end:2613250]] It's actually like computational work in the social sciences was able to translate to Myrmecology, into ants research.
+[[start:2613780][end:2620150]] And so it's a very fruitful and bi-directional relationship between studying ants and studying people.
 
 43:42 [[start:2622200][end:2627700]] Now we're going to move into the openness of questions in this second half of the lecture.
 
 43:48 [[start:2628120][end:2635348]] So how do the concepts of generalized synchrony and homeostasis, which are core to Active Inference, relate to collective behavior?
-[[start:2635524][end:2645144]] And here we can draw upon the work by Ralph Kaufman, Pranav Gupta and Jacob Taylor from 2021 called inactive inference model of collective intelligence.
-[[start:2645192][end:2648236]] And this was also unpacked in Gestream Nine.
+[[start:2635524][end:2645144]] And here we can draw upon the work by Ralph Kaufman, Pranav Gupta and Jacob Taylor from 2021 called "Anactive inference model of collective intelligence." 
+[[start:2645192][end:2648236]] And this was also unpacked in Guest Stream Nine.
 [[start:2648418][end:2650652]] And so here's a little collective over here.
 
-44:10 [[start:2650786][end:2666640]] And that was about two years ago, way back when what they did in this paper was they considered a setting with two trolley cars moving around a wheel.
+44:10 [[start:2650786][end:2666640]] And that was about two years ago, way back when. What they did in this paper was they considered a setting with two trolley cars moving around a wheel.
 [[start:2667800][end:2670276]] And so here's how they contextualize that work.
-[[start:2670458][end:2685172]] Formal models of collective intelligence have lacked a plausible mathematical description of the relationship between local scale interactions between autonomous subsystem components individuals and global scale behavior of the composite system, the collective.
+[[start:2670458][end:2685172]] "Formal models of collective intelligence have lacked a plausible mathematical description of the relationship between local scale interactions between autonomous subsystem components individuals and global scale behavior of the composite system, the collective."
 [[start:2685316][end:2691080]] So they do a really great job staking out what they mean by individual and collective.
 
-44:51 [[start:2691740][end:2709600]] In this paper, we use the Active Inference formulation AIF, a framework for explaining the behavior of any non equilibrium steady state system at any scale deposit, a minimal agent based model that simulates the relationship between local individual level interaction and collective intelligence.
+44:51 [[start:2691740][end:2709600]] "In this paper, we use the Active Inference formulation AIF, a framework for explaining the behavior of any non-equilibrium steady state system at any scale to posit, a minimal agent based model that simulates the relationship between local individual level interaction and collective intelligence."
 
 45:10 [[start:2710340][end:2719776]] Then they had a really creative approach to disentangling how different capacities translated to different collective outcomes.
 [[start:2719808][end:2720950]] And here's what they did.
-[[start:2721720][end:2726516]] We explore the effects of providing baseline Active Inference agents.
-[[start:2726698][end:2743556]] Model one with specific cognitive capabilities, model two added in a theory of mind, model three added in goal alignment, and model four added both theory of mind and goal alignment.
+[[start:2721720][end:2726516]] "We explore the effects of providing baseline Active Inference agents
+[[start:2726698][end:2743556]] (Model 1) with specific cognitive capabilities, Model 2 added in a theory of mind, Model 3 added in goal alignment, and model 4 added both theory of mind and goal alignment.
 [[start:2743748][end:2745204]] What does that look like?
 
 45:45 [[start:2745342][end:2750044]] Again, we're not going to go into all the technical details here, but broadly, this is what it looked like.
 [[start:2750162][end:2754430]] Here was their simplest baseline Active Inference formulation case.
 
 45:54 [[start:2754980][end:2764080]] And then in the subsequent experiments, they added in either one or the other or both of the cognitive capacities that they described.
-[[start:2765140][end:2778870]] They studied the single DIAD case and they very cleverly expanded that into a large scale multidiad case.
-[[start:2780040][end:2792408]] They utilized their own representation of the octave inference partition in order to facilitate the construction of this model.
+[[start:2765140][end:2778870]] They studied the single dyad case and they very cleverly expanded that into a large-scale multidiad case.
+[[start:2780040][end:2792408]] They utilized their own representation of the Active Inference partition in order to facilitate the construction of this model.
 
-46:32 [[start:2792574][end:2797452]] And so in this case, we see the blanket with the sensory states coming in, the active states going out.
+46:32 [[start:2792574][end:2797452]] And so in this case, we see the blanket with the sensory states coming in, the active states going out: 
 [[start:2797586][end:2799020]] Markov blanket.
 [[start:2800800][end:2806370]] Here we see the environment and then internal belief states or cognitive states.
-[[start:2807460][end:2819670]] So very cool work that helps us get a vocabulary around, not shut the book on, but focus on.
+[[start:2807460][end:2819670]] So very cool work that helps us get a vocabulary around, not shut the book on, but focus on
 
-47:00 [[start:2820440][end:2824656]] How do different agents come to synchronize?
+47:00 [[start:2820440][end:2824656]] how do different agents come to synchronize?
 
 47:04 [[start:2824848][end:2826624]] What is generalized synchrony?
-[[start:2826672][end:2845656]] Well, it doesn't mean Lockstep turntaking is generalized synchrony, because these two agents, the time that they're talking, has very high mutual information on the other, even though the correlation with their speaking might be negative, agent A is speaking when B is not, and vice versa.
+[[start:2826672][end:2845656]] Well, it doesn't mean lock-step. Turn-taking is generalized synchrony, because these two agents, the time that they're talking, has very high mutual information on the other, even though the correlation with their speaking might be negative: agent A is speaking when B is not, and vice versa.
 [[start:2845768][end:2850328]] So from a linear regression perspective, there's a negative correlation.
 [[start:2850504][end:2859840]] But from a mutual information perspective, where you can't ever have below zero information, at worst it's just noise.
 [[start:2860740][end:2867992]] You always have zero or positive amount of information of systems about other systems.
 
 47:48 [[start:2868156][end:2878240]] And so that opens the door to understanding generalized synchrony, which is a broader conception of how individuals and collectives are interacting.
-[[start:2878400][end:2879536]] And homeostasis.
-[[start:2879568][end:2886964]] Maybe we could even imagine that these are multiple cells in the pancreas and they're trying to coordinate on insulin sensitivity.
+[[start:2878400][end:2879536]] And homeostasis,
+[[start:2879568][end:2886964]] maybe we could even imagine that these are multiple cells in the pancreas and they're trying to coordinate on insulin sensitivity.
 
 48:07 [[start:2887092][end:2895176]] Or maybe this is multiple people who are securing the defense of a community and they also need to coordinate synchronously and asynchronously.
-[[start:2895288][end:2907804]] And so there's a lot of ways in which this very, very lightweight apparatus of the Active Inference partition helps us bring together and compose all these cool.
+[[start:2895288][end:2907804]] And so thewreare a lot of ways in which this very, very lightweight apparatus of the Active Inference partition helps us bring together and compose all these cool 
 
-48:27 [[start:2907842][end:2908316]] What ifs?
+48:27 [[start:2907842][end:2908316]] hat ifs?
 [[start:2908348][end:2910480]] Well, what if it had theory of mind?
 [[start:2910630][end:2912332]] What if it had goal alignment?
 [[start:2912476][end:2915600]] What if agents had theory of mind and goal alignment?
-[[start:2916020][end:2925780]] What if we put them in a five x seven grid and then we did this and and that's what we get to do with Active Inference.
+[[start:2916020][end:2925780]] What if we put them in a 5 x 7 grid and then we did this? And that's what we get to do with Active Inference.
 
-48:46 [[start:2926120][end:2937700]] And lastly here, how can Active Inference be used to explore the balance between individual and collective behavioral and the bi directional influence of collectives on individuals?
-[[start:2937860][end:2952696]] And so here I draw upon the amazing and singular work of Professor Mike Levin, who wrote the computational boundary of a self developmental bioelectricity drives multicellularity and scale free cognition in 2019.
+48:46 [[start:2926120][end:2937700]] And lastly here, how can Active Inference be used to explore the balance between individual and collective behavioral and the bi-directional influence of collectives on individuals?
+[[start:2937860][end:2952696]] And so here I draw upon the amazing and singular work of Professor Mike Levin, who wrote "The computational boundary of a 'self': Developmental bioelectricity drives multicellularity and scale-free cognition" in 2019.
 
 49:12 [[start:2952808][end:2956620]] This was also explored in Livestream 25 series.
-[[start:2957060][end:2974500]] So, just to pull out a few of the great pieces of this article, and there's a stigmaic trail of many other papers for those who follow, professor Levin writes, I propose a definition of an individual based on its information processing structure.
+[[start:2957060][end:2974500]] So, just to pull out a few of the great pieces of this article, and there's a stigmergc trail of many other papers for those who follow professor Levin writes, I propose a definition of an individual based on its information processing structure.
 [[start:2975240][end:2982890]] The scale and types of goals that a system can pursue, defines or determines the boundaries and the content of the putative agent.
 
 49:44 [[start:2984220][end:2994510]] On this view, what defines a coherent, unified self out of its constituents, components and the surrounding environment is the set of parts that operate towards reaching specific goal states.
