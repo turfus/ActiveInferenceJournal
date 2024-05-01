@@ -528,32 +528,31 @@ and the bi-directional influence of collectives on individuals", and, of course,
 [[start:2937860][end:2952696]] And so here I draw upon the amazing and singular work of Professor Mike Levin, who wrote "The computational boundary of a 'self': Developmental bioelectricity drives multicellularity and scale-free cognition" in 2019.
 
 49:12 [[start:2952808][end:2956620]] This was also explored in Livestream 25 series.
-[[start:2957060][end:2974500]] So, just to pull out a few of the great pieces of this article, and there's a stigmergc trail of many other papers for those who follow professor Levin writes, I propose a definition of an individual based on its information processing structure.
-[[start:2975240][end:2982890]] The scale and types of goals that a system can pursue, defines or determines the boundaries and the content of the putative agent.
-
-49:44 [[start:2984220][end:2994510]] On this view, what defines a coherent, unified self out of its constituents, components and the surrounding environment is the set of parts that operate towards reaching specific goal states.
+[[start:2957060][end:2974500]] So, just to pull out a few of the great pieces of this article - and there's a stigmergc trail of many other papers for those who follow - Professor Levin writes: "I propose a definition of an individual based on its information processing structure.
+[[start:2975240][end:2982890]] The scale and types of goals that a system can pursue, defines or determines the boundaries and the content of the putative 'agent.'
+49:44 [[start:2984220][end:2994510]] On this view, what defines a coherent, unified self out of its constituents, components and the surrounding environment is the set of parts that operate towards reaching specific goal states"
 [[start:2995040][end:3012770]] So this is a teleological or a functional or anticipatory or sentient or adaptive or informational concept on individuals, which we can add to the earlier consideration raised by Gilbert et al.
 
 50:13 [[start:3013140][end:3021860]] Here they discuss some of the more mechanistic biological considerations like genetics, immunology, evolution, development, anatomy, and physiology.
 [[start:3023320][end:3032116]] What Levin has done here, and consistent with this, is the informational theory of individuality by David Krakauer et al.
-[[start:3032298][end:3036612]] Is connect this more generally to system capacity.
+[[start:3032298][end:3036612]] is connect this more generally to system capacity.
 
-50:36 [[start:3036756][end:3051500]] And so there is what is here represented as like a time diamond, where the scope or the scale of the system in the now is like the radius or the circumference on this diamond.
+50:36 [[start:3036756][end:3051500]] And so there is what is here represented as like a time-diamond, where the scope or the scale of the system in the now is like the radius or the circumference on this diamond.
 [[start:3051920][end:3060210]] And then the part of the diamond that recedes off into the past, that's retained from the past, is memory and history.
-[[start:3060900][end:3070260]] And the part that advances or pretends into the future is the anticipatory or the planning capacity.
+[[start:3060900][end:3070260]] And the part that advances or protends into the future is the anticipatory or the planning capacity.
 [[start:3070680][end:3083652]] This opens the door to describing diverse intelligences, including possible alien artificial intelligence or synthetic intelligences, as well as nested or compound intelligences.
 
 51:23 [[start:3083796][end:3087364]] So here the example is the ant colony.
 
-51:27 [[start:3087492][end:3104440]] So here we have cells, these little pinkish diamonds nested within a nest mate, which is the green diamond nested within the colony, which is the blue diamond.
-[[start:3104600][end:3108160]] Now, notice that the nest mate is called an organism.
-[[start:3108900][end:3117052]] I couldn't help but to connect this to Wheeler 1911, whose work is the Ant Colony as an organism.
+51:27 [[start:3087492][end:3104440]] So here we have cells, these little pinkish diamonds nested within a nest-mate, which is the green diamond nested within the colony, which is the blue diamond.
+[[start:3104600][end:3108160]] Now, notice that the nest-mate is called an organism.
+[[start:3108900][end:3117052]] I couldn't help but to connect this to Wheeler (1911), whose work is "The Ant Colony as an organism."
 [[start:3117196][end:3119108]] Superorganism came later.
 [[start:3119274][end:3132752]] The superorganismal framing on the ant colony reifies the concept that the nest mate is the individual or the organism, because why else would you need to call the colony a superorganism?
 
 52:12 [[start:3132816][end:3134584]] I mean, I think colonies are super.
 [[start:3134702][end:3138504]] I think it's great to call them whatever you want to call them, and they probably don't mind either.
-[[start:3138622][end:3145864]] But the idea that a superorganism is composed of other organisms means that the nest mate is an organism.
+[[start:3138622][end:3145864]] But the idea that a superorganism is composed of other organisms means that the nest-mate is an organism.
 
 52:25 [[start:3145912][end:3161920]] Whereas this diagram, in my perspective, would be as accurate or more to say nest mate here, because under different concepts of organismality, which is to say individuality, if we want to connect it there, the colony can be considered as the organism.
 
@@ -566,75 +565,75 @@ and the bi-directional influence of collectives on individuals", and, of course,
 53:26 [[start:3206988][end:3210640]] Every capacity has a natural history and emerged from simpler variants.
 [[start:3211300][end:3217040]] Second, it is assumed that all metaphors are to be judged by their utility in driving scientific progress.
 [[start:3217480][end:3226820]] There is not a binary categorization of scientific pictures which should be taken literally or not, which can be decided a priori upfront.
-[[start:3227640][end:3232368]] Third, much of the discussion centers around goals related to teleology.
-[[start:3232464][end:3248316]] A hotly debated topic here, goal directedness is taken in the nonmagical cybernetic engineering and control theory sense of a feedback system that operates to maximize some specific state of affairs, which can be modeled as a dynamical system with attractors in its state space.
+[[start:3227640][end:3232368]] Third, much of the discussion centers around goals related to teleology,
+[[start:3232464][end:3248316]] a hotly debated topic. Here, goal-directedness is taken in the nonmagical cybernetic engineering and control theory sense of a feedback system that operates to maximize some specific state of affairs, which can be modeled as a dynamical system with attractors in its state space.
 
 54:08 [[start:3248418][end:3256620]] And later work by Levin and Fields and others expanded this concept of intelligence just to phenomenal heights and flavors.
-[[start:3256780][end:3279300]] So Active Inference helps us understand that cognitive glue maybe it's mechanistically enacted by bioelectricity in a given system or at a given scale, but Active Inference gives us the analytical glue to approach those systems with an open mind and an open scaffold.
+[[start:3256780][end:3279300]] So Active Inference helps us understand that cognitive glue, maybe it's mechanistically enacted by bioelectricity in a given system or at a given scale, but Active Inference gives us the analytical glue to approach those systems with an open mind and an open scaffold.
 
 54:39 [[start:3279720][end:3287492]] And so those are some of the insights and fundamentals of Active Inference as applied to collective behavioral systems.
-[[start:3287636][end:3299340]] Now on to the last third of this lecture applications and Implications of Active Inference for the Social Sciences regarding collective behavior.
+[[start:3287636][end:3299340]] Now on to the last third of this lecture:Applications and Implications of Active Inference for the Social Sciences regarding collective behavior.
 [[start:3300480][end:3304510]] This is really where it is wide, wide, wide open.
 
 55:06 [[start:3306820][end:3315068]] What kinds of insights can Active Inference offer about the role of learning, adaptation, conflict, and cooperation in collective behavior?
 [[start:3315164][end:3318720]] And how can we approach that from a cognitive security perspective?
-[[start:3319080][end:3332680]] Here we'll draw on the work of Scott David and colleagues, active Inference in Modeling Conflict what implications does Active Inference have on the study of human collective behavior, particularly in social, economic, and digital contexts?
+[[start:3319080][end:3332680]] Here we'll draw on the work of Scott David and colleagues, "Active Inference in Modeling Conflict." What implications does Active Inference have on the study of human collective behavior, particularly in social, economic, and digital contexts?
 [[start:3333100][end:3336650]] Here we'll draw on the work by Poirier et al.
-[[start:3337020][end:3340068]] Communication as socially extended Active Inference.
+[[start:3337020][end:3340068]] "Communication as socially extended Active Inference.
 
-55:40 [[start:3340164][end:3343336]] An ecological approach to communicative behavior livestream.
-[[start:3343368][end:3352780]] 48 series what considerations that are relevant for thinking about assemblages and interactions?
+55:40 [[start:3340164][end:3343336]] An ecological approach to communicative behavior" (Livestream
+[[start:3343368][end:3352780]] 48 series). What considerations that are relevant for thinking about assemblages and interactions?
 [[start:3353760][end:3360268]] What considerations are relevant for thinking about assemblages and interactions among different entities in cognitive ecosystems?
 [[start:3360444][end:3363712]] Here we'll turn to the work of Friston et al.
-[[start:3363766][end:3364288]] Et al.
+[[start:3363766][end:3364288]] 
 
-56:04 [[start:3364374][end:3375184]] 2022, designing Ecosystems of Intelligence from First Principles and how does Active Inference accommodate collective behavior within and across generations?
-[[start:3375312][end:3381216]] And here we'll look at a variational synthesis of evolutionary and developmental dynamics by Friston et al.
-[[start:3381258][end:3382730]] In 2023.
-[[start:3383100][end:3393548]] So when it comes to applications and implications of Active Inference in social sittings and settings, again, there's so much to do, there's so much to learn.
+56:04 [[start:3364374][end:3375184]] (2022), "Designing Ecosystems of Intelligence from First Principles" and "How does Active Inference accommodate collective behavior within and across generations?"
+[[start:3375312][end:3381216]] And here we'll look at "A variational synthesis of evolutionary and developmental dynamics" by Friston et al.
+[[start:3381258][end:3382730]] in 2023.
+[[start:3383100][end:3393548]] So when it comes to applications and implications of Active Inference in social settings, again, there's so much to do, there's so much to learn.
 [[start:3393634][end:3396120]] So we welcome everybody who's curious.
 
 56:36 [[start:3396200][end:3405952]] This is the time to write your live chats, submit your questions, prepare yourself to explore, and to be an active forager in this space.
 
 56:46 [[start:3406006][end:3408530]] And if you're listening, you know that you already are.
-[[start:3409140][end:3410112]] So in the work.
-[[start:3410166][end:3412636]] Active inference in modeling conflict.
-[[start:3412828][end:3413276]] Scott.
+[[start:3409140][end:3410112]] So in the work
+[[start:3410166][end:3412636]] "Active inference in modeling conflict",
+[[start:3412828][end:3413276]] Scott
 
-56:53 [[start:3413308][end:3414476]] David RJ.
-[[start:3414508][end:3424656]] Corday and myself asked what kinds of insights can Active Inference offer about the role of learning, adaptation, conflict and cooperation in collective behavior?
+56:53 [[start:3413308][end:3414476]] David, R.J.
+[[start:3414508][end:3424656]] Cordes and myself asked: What kinds of insights can Active Inference offer about the role of learning, adaptation, conflict and cooperation in collective behavior?
 [[start:3424768][end:3428470]] Now, as with all these other papers, there's always so many things that can be said.
-[[start:3429400][end:3438360]] What we did is we tried to connect beyond the very classical Markov blanket and agent environment partitioning, which we've seen many, many times.
+[[start:3429400][end:3438360]] What we did is we tried to connect beyond the very classical Markov blanket and agent-environment partitioning, which we've seen many, many times.
 [[start:3438510][end:3445304]] We tried to connect this to the specific kind of generative models that we use in modeling.
 
 57:25 [[start:3445432][end:3452504]] So here we led early by clarifying, this is what we're talking about with Active Inference, generative models.
-[[start:3452632][end:3457532]] It's not like something I'm hiding in my pocket and maybe I'll show you if you say the shibolith.
+[[start:3452632][end:3457532]] It's not like something I'm hiding in my pocket and maybe I'll show you if you say the shibboleth.
 [[start:3457676][end:3463868]] This is what we're talking about when we're talking about applying Active Inference models to social settings.
-[[start:3463964][end:3467600]] It's a discrete time generative model here just a motif.
+[[start:3463964][end:3467600]] It's a discrete time generative model here, just a motif.
 
-57:49 [[start:3469400][end:3481968]] We applied that kind of generative model architecture to one of the most well known models of sense making and decision making, which is the UDA loop.
+57:49 [[start:3469400][end:3481968]] We applied that kind of generative model architecture to one of the most well-known models of sense-making and decision-making, which is the OODA loop,
 
-58:02 [[start:3482064][end:3488340]] Observe, orient, decide, act by John Boyd Now this may seem to some like a quite sparse framework.
+58:02 [[start:3482064][end:3488340]] observe, orient, decide, act by John Boyd Now this may seem to some like a quite sparse framework.
 [[start:3488420][end:3492600]] Like, yeah, you get the observation, you figure it out, you make a decision, you take the action.
 [[start:3493500][end:3496200]] It doesn't do that much work by itself either.
-[[start:3496270][end:3500524]] However, UDA is used in tactical and strategic settings every single day.
+[[start:3496270][end:3500524]] However, OODA is used in tactical and strategic settings every single day.
 [[start:3500642][end:3507916]] And so we wanted to connect OODA loop to the generative models that we use in Active Inference.
 
 58:27 [[start:3507948][end:3513724]] And so we highlighted on the generative model where different stages of the OODA loop occur.
 [[start:3513852][end:3516032]] Perception happens in the sensory states.
 [[start:3516166][end:3524036]] Cognition or the orientation happens in the perceptual inference, the downstairs of that part of the figure.
-[[start:3524218][end:3530004]] And then decision making happens in the upstairs with the expected free energy calculation in this case.
+[[start:3524218][end:3530004]] And then decision-making happens in the upstairs with the expected free energy calculation in this case.
 
 58:50 [[start:3530122][end:3536952]] And finally action is selected and enacted and that results in impact and the cycle begins again.
 
-58:57 [[start:3537086][end:3543660]] Now, in Active Inference it's more like an unfolding flow, but to a first pass approximation it does the trick.
-[[start:3544160][end:3548860]] Why does that really matter that we understand the mechanics of decision making?
+58:57 [[start:3537086][end:3543660]] Now, in Active Inference it's more like an unfolding flow, but to a first-pass approximation it does the trick.
+[[start:3544160][end:3548860]] Why does that really matter that we understand the mechanics of decision-making?
 [[start:3549010][end:3553020]] Well, we're talking about Active Inference in the social setting.
 [[start:3553440][end:3568710]] That means we're talking about two sophisticated cognitive entities, maybe two businesses, maybe two individual humans, maybe a person and a business, maybe different kinds of systems that we don't even know about or we haven't even seen yet.
-[[start:3569880][end:3580180]] And that generative model is the internal states that is then participating in this minimal dyadic collective behavioral encounter.
+[[start:3569880][end:3580180]] And that generative model is the internal states that are then participating in this minimal dyadic collective behavioral encounter.
 
-59:40 [[start:3580860][end:3589400]] We can expand that to thinking about commons resource, commons attention, commons open source ecosystems.
-[[start:3589740][end:3601070]] And for this we utilized one of Scott David's favorite acronyms of which he has so so many, which is Bolts business, Operation, Legal, Technical and Social.
+59:40 [[start:3580860][end:3589400]] We can expand that to thinking about commons resource, commons attention, commons open-source ecosystems.
+[[start:3589740][end:3601070]] And for this we utilized one of Scott David's favorite acronyms of which he has so, so many, which is BOLTS: business, Operation, Legal, Technical and Social.
 
 1:00:01 [[start:3601920][end:3606430]] Bolts is not an exhaustive acronym, otherwise we would need everything.
 [[start:3606800][end:3612508]] But it's a heuristic that encourages us to think holistically about different systems.
@@ -644,52 +643,52 @@ and the bi-directional influence of collectives on individuals", and, of course,
 [[start:3625392][end:3631120]] Well then that has to be taken into account or everything works out but it's illegal.
 [[start:3631280][end:3633256]] That's not the way to go.
 [[start:3633438][end:3635496]] Everything works out, but the business doesn't check out.
-[[start:3635518][end:3639784]] It's not going to be sustainable financially or technically it can't be done.
+[[start:3635518][end:3639784]] It's not going to be sustainable financially. Or technically it can't be done.
 
 1:00:39 [[start:3639822][end:3641720]] Or socially it's not palatable.
-[[start:3642140][end:3654236]] All of these features of sociotechnical systems, which again we just make a little mnemonic of with Bolts need to be taken into account for comprehensive and high integrity, high reliability systems design.
-[[start:3654418][end:3660716]] In this setting we have entity A and entity B interacting through the Bolts niche.
-[[start:3660828][end:3663708]] They each have their own blanket states sense in action.
+[[start:3642140][end:3654236]] All of these features of sociotechnical systems, which again we just make a little mnemonic of with BOLTS need to be taken into account for comprehensive and high-integrity, high-reliability systems design.
+[[start:3654418][end:3660716]] In this setting we have entity A and entity B interacting through the BOLTS niche.
+[[start:3660828][end:3663708]] They each have their own blanket states, sense and action.
 
-1:01:03 [[start:3663884][end:3670124]] And the niche where those nest mates were laying their pheromones, the niche is bolts.
+1:01:03 [[start:3663884][end:3670124]] And the niche where those nest mates were laying their pheromones, the niche is BOLTS.
 
 1:01:10 [[start:3670252][end:3677990]] And so you could make a restricted model where it's just two entities engaged in a financial dealing, just a business only engaging on B.
-[[start:3678360][end:3684280]] Or you could think of this multidomain full spectrum situation in terms of bolts.
+[[start:3678360][end:3684280]] Or you could think of this multidomain full-spectrum situation in terms of BOLTS.
 [[start:3684620][end:3689400]] Then you would have a larger and a more complex interface between these two entities.
 [[start:3689740][end:3696584]] But we also wanted to think about the case where there might be cooperation between these entities or there might be conflict.
 [[start:3696712][end:3698684]] And so here we have entity A and B.
 
 1:01:38 [[start:3698722][end:3701180]] The Dyad is in the spotlight.
-[[start:3701760][end:3710412]] Entity C is a non belligerent state or it's a bystander, or it's a witness, or it's a referee, or it's a friend, or it's a colleague.
-[[start:3710476][end:3717596]] But entity C is also engaging only through their blanket states on bolts.
-[[start:3717788][end:3726148]] And lastly, we connect it to the Abiotic niche which may not care how much you're buying or selling a gallon of oil for.
+[[start:3701760][end:3710412]] Entity C is a non-belligerent state or it's a bystander, or it's a witness, or it's a referee, or it's a friend, or it's a colleague.
+[[start:3710476][end:3717596]] But entity C is also engaging only through their blanket states on BOLTS.
+[[start:3717788][end:3726148]] And lastly, we connect it to the abiotic niche which may not care how much you're buying or selling a gallon of oil for.
 
 1:02:06 [[start:3726314][end:3728352]] The abiotic niche may have its own dynamics.
 
 1:02:08 [[start:3728416][end:3732056]] We may use Active Inference to model that or we might use some other approach to model it.
-[[start:3732158][end:3742436]] And so this sets a really, really general state space for us to understand conflict and cooperation and where we situated that work.
-[[start:3742558][end:3752476]] Lastly, here was in relationship to other work exploring strategic and tactical decision making and so on.
-[[start:3752498][end:3758240]] The lower end of this image are tactical and operational frameworks that are used in decision making.
+[[start:3732158][end:3742436]] And so this sets a really, really general state space for us to understand conflict and cooperation. And where we situated that work,
+[[start:3742558][end:3752476]] lastly here, was in relationship to other work exploring strategic and tactical decision making and so on.
+[[start:3752498][end:3758240]] The lower end of this image are tactical and operational frameworks that are used in decision-making.
 [[start:3758390][end:3764140]] On the top are strategic or scholarly frameworks that are used for more of like geopolitical considerations.
 
 1:02:44 [[start:3764300][end:3771776]] And then from left to right we have more qualitative approaches going to more formal and quantitative approaches.
 [[start:3771888][end:3787416]] And we believe that the application of Active Inference through this type of model, the Active Inference conflict model, helps us touch the qualitative natural language and graphical composable aspects and the quantitative and formal aspects as well.
 
-1:03:07 [[start:3787518][end:3802990]] And similarly, through nested decision making cycles we can talk about tactical operational activities and the broader nested strategy just like we looked at the nested cones from Professor Levin's work.
+1:03:07 [[start:3787518][end:3802990]] And similarly, through nested decision-making cycles we can talk about tactical operational activities and the broader nested strategy just like we looked at the nested cones from Professor Levin's work.
 [[start:3804880][end:3814076]] Next, what implications does Active Inference have on the study of human collective behavior, particularly in social, economic and digital contexts?
-[[start:3814188][end:3825408]] Well, there's a lot to say about this, but Tisson and Pore wrote in 2021 the paper communication as socially extended Active Inference, an ecological approach to communicative behavior.
+[[start:3814188][end:3825408]] Well, there's a lot to say about this, but Tison and Poirier wrote in 2021 the paper "Communication as socially extended Active Inference: an ecological approach to communicative behavior."
 
 1:03:45 [[start:3825504][end:3828224]] And this was in the Livestream 48 series.
-[[start:3828352][end:3834330]] Here's Remy raising his hand so that we knew that he wanted to speak.
+[[start:3828352][end:3834330]] Here's Remi raising his hand so that we knew that he wanted to speak.
 [[start:3835740][end:3849580]] They introduced an ecological account of communication according to which acts of communication are Active Inference achieved by affecting the behavior of a target organism via the modification of its field of affordances.
 
-1:04:10 [[start:3850880][end:3864940]] Constraining a target organism's behavior constitutes a mechanism of socially extended Active Inference allowing organisms to proactively regulate their interstates through the behavior of other organisms.
+1:04:10 [[start:3850880][end:3864940]] Constraining a target organism's behavior constitutes a mechanism of socially extended Active Inference allowing organisms to proactively regulate their inner states through the behavior of other organisms.
 [[start:3865100][end:3882520]] In this general conception of communication, the type of cooperative communication characteristic of human communicative interaction is a way of constraining interaction dynamics towards the goals of a given joint action by constructing and altering shared fields of affordances.
 
 1:04:43 [[start:3883020][end:3897630]] This account embraces a pragmatist view, according to which communication is a form of action aiming to influence the behavior of a target and stands against the traditional transmission view, according to which communication fundamentally serves to convey information.
-[[start:3898480][end:3916220]] Understanding acts of communication as Active Inference under an ecological interpretation allows us to link communicative and ultimately linguistic behavior to the biological imperative of minimizing free energy and to emphasize the action oriented nature of communicative interaction.
+[[start:3898480][end:3916220]] Understanding acts of communication as Active Inference under an ecological interpretation allows us to link communicative and ultimately linguistic behavior to the biological imperative of minimizing free energy and to emphasize the action-oriented nature of communicative interaction.
 
-1:05:16 [[start:3916380][end:3929632]] This is really a rich and excellent work that Remy and Pierre produced, and there are several pieces that I think add a lot of meaning and value to the ways that we think about communication.
+1:05:16 [[start:3916380][end:3929632]] This is really a rich and excellent work that Remi and Pierre produced, and there are several pieces that I think add a lot of meaning and value to the ways that we think about communication.
 [[start:3929776][end:3932920]] But most broadly, what is communication for?
 [[start:3933070][end:3934792]] Who do we talk to and why?
 
@@ -701,7 +700,7 @@ and the bi-directional influence of collectives on individuals", and, of course,
 
 1:05:55 [[start:3955410][end:3956944]] The medium is the message.
 [[start:3957142][end:3959344]] And think about everything in that area, too.
-[[start:3959462][end:3973872]] And how can Active Inference, beyond just giving these incredible composable formal tools, how can we think about joint action and co modification of fields of affordances?
+[[start:3959462][end:3973872]] And how can Active Inference, beyond just giving these incredible composable formal tools, how can we think about joint action and co-modification of fields of affordances?
 [[start:3973936][end:3976880]] Hey, could you pick that up from that shelf?
 
 1:06:17 [[start:3977040][end:3978676]] Okay, I'll open it for you.
@@ -709,77 +708,76 @@ and the bi-directional influence of collectives on individuals", and, of course,
 1:06:18 [[start:3978778][end:3981624]] Now let's hand it to our friend who's going to make the food.
 [[start:3981822][end:3991720]] All of these ways in which individuals shape each other's field of affordances is something that we can talk about really fluidly within Active Inference.
 
-1:06:34 [[start:3994400][end:4005400]] Penultimate View what considerations are relevant for thinking about assemblages and interactions among different entities in cognitive ecosystems?
-[[start:4005560][end:4011120]] So here was a large multi author paper from Karl Friston et al.
-[[start:4011190][end:4016608]] And The Versus Colleagues designing Ecosystems of Intelligence from First Principles from December 2022.
-[[start:4016614][end:4031956]] And the big picture as I see it here is what is the role of the social sciences after all the course that we're in now in ecosystems of diverse heterogeneous?
+1:06:34 [[start:3994400][end:4005400]] Penultimate View: What considerations are relevant for thinking about assemblages and interactions among different entities in cognitive ecosystems?
+[[start:4005560][end:4011120]] So here was a large multi-author paper from Karl Friston et al.
+[[start:4011190][end:4016608]] and the VERSES Colleagues: "Designing Ecosystems of Intelligence from First Principles" from December 2022.
+[[start:4016614][end:4031956]] And the big picture as I see it here is: What is the role of the social sciences - after all the course that we're in now - in ecosystems of diverse heterogeneous?
 [[start:4032068][end:4033668]] Synthetic intelligences.
 
-1:07:13 [[start:4033844][end:4040900]] By synthetic intelligences, I refer to assemblages with intelligence, whether it's natural or artificial.
+1:07:13 [[start:4033844][end:4040900]] By synthetic intelligences, I refer to assemblages with intelligence, whether it's natural or artificial,
 
-1:07:21 [[start:4041060][end:4048888]] Leave that debate for another day, because in their application, we're talking about synthetic intelligence.
+1:07:21 [[start:4041060][end:4048888]] leave that debate for another day. Because in their application, we're talking about synthetic intelligence.
 [[start:4048984][end:4051260]] Synthetic intelligence needs cognitive security.
 [[start:4051410][end:4054460]] Cognitive security needs cognitive science.
-[[start:4055120][end:4063692]] And they began this paper with the following this white paper presents Active Inference as an approach to research and development in the field of artificial intelligence.
-
-1:07:43 [[start:4063756][end:4070900]] AI artificial with the aim of developing ecosystems of natural and artificial intelligences.
-[[start:4071800][end:4093000]] The path forward in AI is often presented as progressing from systems that are able to solve problems within one narrow domain, artificial narrow intelligence ANI to systems that are able to solve problems in a domain general manner at or beyond human levels, what are known as artificial general intelligence, AGI, and artificial superintelligence ASI.
-[[start:4094000][end:4104056]] We believe that approaching ASI or for reasons outlined below, even AGI likely requires an understanding of networked or collective intelligence.
+[[start:4055120][end:4063692]] And they began this paper with the following: "This white paper presents Active Inference as an approach to research and development in the field of artificial intelligence
+1:07:43 [[start:4063756][end:4070900]] (AI) with the aim of developing ecosystems of natural and artificial intelligences.
+[[start:4071800][end:4093000]] The path forward in AI is often presented as progressing from systems that are able to solve problems within one narrow domain, artificial narrow intelligence (ANI) to systems that are able to solve problems in a domain general manner at or beyond human levels: what are known as artificial general intelligence (AGI) and artificial super-intelligence (ASI), respectively."
+[[start:4094000][end:4104056]] "We believe that approaching ASI (or for reasons outlined below, even AGI) likely requires an understanding of networked or collective intelligence."
 
 1:08:24 [[start:4104248][end:4107980]] Now, intelligence in action is behavior.
 [[start:4108140][end:4119536]] So we're talking about collective behavior and they laid out their timeline and the stages that they see in terms of sentient, sophisticated, sympathetic and finally shared intelligences.
 
 1:08:39 [[start:4119728][end:4124710]] But I think it's worth to dwell a moment on the one figure of this paper.
-[[start:4125320][end:4129520]] Figure one belief updating on a statistical manifold.
+[[start:4125320][end:4129520]] Figure one: belief updating on a statistical manifold.
 [[start:4129680][end:4137160]] And so here we have some curve in an information geometric space, it's a parameter space of a probability distribution.
-[[start:4137740][end:4167040]] And on this manifold, on this line on a plane, lower dimensional manifold projection, there's a temporal process belief at time t, T plus one, T plus two, where initially this gaussian that's very distributed becomes updated to a sharper peak distribution that's going to be resting basically at some special point on this curve.
+[[start:4137740][end:4167040]] And on this manifold, on this line on a plane, lower-dimensional manifold projection, there's a temporal process belief at time t, t+1, t+2, where initially this gaussian that's very distributed becomes updated to a sharper-peaked distribution that's going to be resting basically at some special point on this curve.
 
-1:09:28 [[start:4168440][end:4179964]] Whether you're very familiar with accelerated optimization on information geometric manifolds or not, it's really interesting to consider why they went with this image.
+1:09:28 [[start:4168440][end:4179964]] Whether you're very familiar with accelerated optimization on information-geometric manifolds or not, it's really interesting to consider why they went with this image.
 
 1:09:40 [[start:4180112][end:4200220]] And for those again who are familiar or just coming to be familiar with some of the formalisms of Active Inference, this is what this very talented and transdisciplinary team went with when seeking to provide some of the only nontextual descriptions of their work.
-[[start:4200370][end:4211136]] So I think it's really interesting and the big question is, well, what is the social reassembling the social Bruno La Tour, what is the social?
+[[start:4200370][end:4211136]] So I think it's really interesting and the big question is, well, what is the social, reassembling the social (Bruno Latour)?
 [[start:4211238][end:4212290]] What is social?
 [[start:4213220][end:4217936]] Does social mean only adult humans talking with each other?
-[[start:4218118][end:4221996]] Does social include non human species?
+[[start:4218118][end:4221996]] Does social include non-human species?
 
-1:10:22 [[start:4222188][end:4226820]] Does social include non biological intelligences?
+1:10:22 [[start:4222188][end:4226820]] Does social include non-biological intelligences?
 [[start:4227160][end:4231400]] These are all things that are not just questions of theory.
 
 1:10:31 [[start:4231740][end:4246516]] So connecting flexible extensible frameworks like Active Inference and all that comes along with it to this bigger question about applications and implications of applied Active Inference in the social setting.
 [[start:4246628][end:4255020]] That's what I hope we can explore in the questions at the end of this live stream and in the discussions that we have in a couple of weeks and ongoing.
-[[start:4255860][end:4262412]] And lastly, how does Active Inference accommodate collective behavioral within and across generations?
+[[start:4255860][end:4262412]] And lastly, how does Active Inference accommodate collective behavior within and across generations?
 
-1:11:02 [[start:4262556][end:4271590]] And so here I'll draw on the recent work a variational synthesis of evolutionary and developmental dynamics with Karl Friston, myself and others.
+1:11:02 [[start:4262556][end:4271590]] And so here I'll draw on the recent work: "A variational synthesis of evolutionary and developmental dynamics" with Karl Friston, myself and others.
 [[start:4272280][end:4278660]] And we had two images in this work which otherwise had a lot of prose and formalism.
-[[start:4279160][end:4303656]] On the left, we see that Active Inference, particular partition, external states, internal states, blanket states, here at the organismal level, one worm, and in an enested deeper system, the population, which gives rise to the starting positionality of the organisms.
+[[start:4279160][end:4303656]] On the left, we see that Active Inference, a particular partition, external states, internal states, blanket states, here at the organismal level, one worm, and in an ennested deeper system, the population, which gives rise to the starting positionality of the organisms -
 
-1:11:43 [[start:4303768][end:4324880]] Think about drawing an organism from a gene pool, from a birth pool and the impact that those organisms have on the bigger picture, maybe it's a bacteria that is fermenting so it changes the PH or the ethanol concentration of the Kombucha.
+1:11:43 [[start:4303768][end:4324880]] - think about drawing an organism from a gene pool, from a birth pool - and the impact that those organisms have on the bigger picture. Maybe it's a bacteria that is fermenting so it changes the PH or the ethanol concentration of the Kombucha.
 [[start:4325040][end:4339080]] That is this kind of multiscale interaction that we believe provides an approach to understanding ecoevo devo, ecology, evolution and developmental interactions.
 
 1:12:19 [[start:4339420][end:4344288]] And the other visualization that we use here is of nested systems.
 [[start:4344324][end:4352140]] So contrast that with the kind of time diamond that we saw from Mike Levin.
 [[start:4352560][end:4357824]] Now here, imagine that we're going to cut across the.
-[[start:4357862][end:4373940]] Center of this diamond and now it's going to look like a muscle fiber fibers of fibers, because we have, let's just say this outer blue line may be the colony.
+[[start:4357862][end:4373940]] Center of this diamond and now it's going to look like a muscle fiber fibers of fibers, because we have, let's just say this outer blue line, maybe the colony.
 
 1:12:54 [[start:4374920][end:4383384]] And then each of these smaller entities is an estimate and they're composed of cells, and cells have constituents too.
 
-1:13:03 [[start:4383582][end:4394856]] And here we utilized the apparatus of the renormalization group which draws upon physics to articulate the separation of scales.
-[[start:4395048][end:4406220]] So that we can be clear when are we talking about multiscale systems which we can articulate and renormalize across vertically to use an encultured metaphor?
+1:13:03 [[start:4383582][end:4394856]] And here we utilized the apparatus of the renormalization group which draws upon physics to articulate the separation of scales
+[[start:4395048][end:4406220]] so that we can be clear when are we talking about multiscale systems which we can articulate and renormalize across vertically to use an encultured metaphor.
 [[start:4406380][end:4413404]] And then within a given scale of analysis, what is the lateral or collective behavior?
-[[start:4413532][end:4420052]] So how do we get those interactions amongst nest mates that are both constrained by the colony top down?
-[[start:4420186][end:4427536]] Again, using a spatial and encultured metaphor top down scaffolded or enabled or constrained by the colony.
+[[start:4413532][end:4420052]] So how do we get those interactions amongst nest mates that are both constrained by the colony top down,
+[[start:4420186][end:4427536]] again using a spatial and encultured metaphor top-down scaffolded or enabled or constrained by the colony.
 
 1:13:47 [[start:4427568][end:4432228]] But then what nest mates do matters and that influences the colony.
 [[start:4432404][end:4441124]] And we used a few new pieces of formalism primarily developed by Coral to help express that setting.
 
 1:14:01 [[start:4441172][end:4450920]] And again, we think it's going to be really useful for describing otherwise quite challenging scenarios in ecology, evolution and development.
-[[start:4451080][end:4455808]] And so we come right back to that what is a self?
-[[start:4455894][end:4457920]] What about nested selves?
+[[start:4451080][end:4455808]] And so we come right back to that "what is a self?
+[[start:4455894][end:4457920]] What about nested selves?"
 
 1:14:19 [[start:4459460][end:4462610]] And with that, I turn to some open questions.
-[[start:4463780][end:4470710]] What can be said other than there are so many open questions to discuss?
-[[start:4471480][end:4479540]] There's many things we can explore in the discussion that I'll be facilitating in a couple of weeks.
-[[start:4479610][end:4490250]] And of course, beyond we have a coda interface for you to submit questions that all the course teachers will take a look at and give their best attempt on.
+[[start:4463780][end:4470710]] What can be said other than that there are so many open questions to discuss?
+[[start:4471480][end:4479540]] There are many things we can explore in the discussion that I'll be facilitating in a couple of weeks.
+[[start:4479610][end:4490250]] And of course, beyond we have a CODA interface for you to submit questions that all the course teachers will take a look at and give their best attempt on.
 [[start:4490620][end:4494456]] And conversation is collective behavior.
 
 1:14:54 [[start:4494568][end:4501404]] Now, sure, keeping it inside of your head is also collective behavior, no matter how you think about it.
@@ -787,20 +785,20 @@ and the bi-directional influence of collectives on individuals", and, of course,
 1:15:01 [[start:4501522][end:4508816]] But when we enact in the social, then we're really making it happen.
 [[start:4508998][end:4515840]] So with that, I will just show my citations and the slides will be shared too.
 [[start:4515910][end:4521412]] Also, there's some extra readings that various individuals along the way suggested to me.
-[[start:4521546][end:4527510]] So that includes social ecologies and abductive logic enacting like a state.
+[[start:4521546][end:4527510]] So that includes social ecologies and abductive logic and acting like a state.
 
 1:15:27 [[start:4527960][end:4528992]] These are not the titles.
-[[start:4529056][end:4530576]] The titles are inactive.
-[[start:4530608][end:4532716]] Dynamic Social Cognition and Active Inference.
-[[start:4532768][end:4538276]] That was livestream 47 thinking like a state embodied intelligence in the deep history of our collective minds.
-[[start:4538308][end:4547736]] That Was Livestream 33 Active Inference applicability to different kinds of social Organizations explained through reference to industrial engineering and quality Management.
+[[start:4529056][end:4530576]] The titles are "Enactive-
+[[start:4530608][end:4532716]] Dynamic Social Cognition and Active Inference."
+[[start:4532768][end:4538276]] That was livestream 47. "Thinking like a state - embodied intelligence in the deep history of our collective minds."
+[[start:4538308][end:4547736]] That Was Livestream 33. "Active Inference applicability to different kinds of social Organizations explained through reference to industrial engineering and quality Management."
 
-1:15:47 [[start:4547768][end:4554620]] That was live stream 27 resonating minds emergent collaboration through hierarchical Active Inference.
-[[start:4556160][end:4563836]] Yellow Broomberg's and Eric Wrightvel's work on self organization, free energy minimization and optimal grip on a field of affordances.
+1:15:47 [[start:4547768][end:4554620]] That was live stream 27. "Resonating minds emergent collaboration through hierarchical Active Inference."
+[[start:4556160][end:4563836]] Jelle Bruineberg's and Eric Rietveld's work on "Self-organization, free energy minimization and optimal grip on a field of affordances."
 
-1:16:03 [[start:4563948][end:4569020]] And the well known Thinking through Other Minds work by Vesier et al.
-[[start:4569110][end:4570304]] Thinking through other minds.
-[[start:4570352][end:4572980]] A variational approach to cognition and culture.
+1:16:03 [[start:4563948][end:4569020]] And the well-known Thinking through Other Minds work by Vessiere et al.,
+[[start:4569110][end:4570304]] "Thinking through other minds:
+[[start:4570352][end:4572980]] A variational approach to cognition and culture."
 
 1:16:14 [[start:4574920][end:4582090]] Well, I hope this has been an interesting and relevant lecture for you.
 [[start:4583100][end:4584900]] It was fun to prepare.
@@ -812,4 +810,4 @@ and the bi-directional influence of collectives on individuals", and, of course,
 [[start:4623620][end:4624544]] Thank you very much.
 
 1:17:04 [[start:4624582][end:4625810]] Until next time.
-[[start:4626820][end:4627180]] Bye.
+[[start:4626820][end:4627180]] 
